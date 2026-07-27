@@ -10327,6 +10327,2638 @@
           ]
         }
       ]
+    },
+    {
+      "chapter": "Chapter 4 Housework 家务",
+      "scenes": [
+        {
+          "scene": "房间·家具 Room",
+          "page": 114,
+          "image": "ch4_imgs/page_114.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "air conditioner",
+              "phonetic": "/ˌɛr kənˈdɪʃənər/",
+              "chinese": "空调设备；空调机",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "room",
+              "phonetic": "rum",
+              "chinese": "房间",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "wall",
+              "phonetic": "wɔl",
+              "chinese": "墙壁",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "wallpaper",
+              "phonetic": "ˈwɔlˌpeɪpər",
+              "chinese": "壁纸",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "door",
+              "phonetic": "dɔr",
+              "chinese": "门",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "sliding door",
+              "phonetic": "sˈlaɪdɪŋ dɔr",
+              "chinese": "推拉门",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "bookshelf",
+              "phonetic": "ˈbʊkˌʃɛlf",
+              "chinese": "书架",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "bookcase",
+              "phonetic": "ˈbʊkˌkeɪs",
+              "chinese": "书柜；书架",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "shelf",
+              "phonetic": "ʃɛlf",
+              "chinese": "架子；搁板",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "stool",
+              "phonetic": "stul",
+              "chinese": "凳子；搁脚凳",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "cushion",
+              "phonetic": "ˈkʊʃən",
+              "chinese": "垫子；坐垫",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "sofa",
+              "phonetic": "ˈsoʊfə",
+              "chinese": "沙发",
+              "notes": ""
+            },
+            {
+              "item_no": 13,
+              "english": "remote control",
+              "phonetic": "rɪˈmoʊt kənˈtroʊl",
+              "chinese": "遥控器",
+              "notes": ""
+            },
+            {
+              "item_no": 14,
+              "english": "armchair",
+              "phonetic": "ˈɑrmˌʧɛr",
+              "chinese": "扶手椅",
+              "notes": ""
+            },
+            {
+              "item_no": 15,
+              "english": "rug",
+              "phonetic": "rəg",
+              "chinese": "小地毯",
+              "notes": ""
+            },
+            {
+              "item_no": 16,
+              "english": "carpet",
+              "phonetic": "ˈkɑrpət",
+              "chinese": "地毯",
+              "notes": ""
+            },
+            {
+              "item_no": 17,
+              "english": "table",
+              "phonetic": "ˈteɪbəl",
+              "chinese": "桌子",
+              "notes": ""
+            },
+            {
+              "item_no": 18,
+              "english": "couch",
+              "phonetic": "kaʊʧ",
+              "chinese": "长沙发；躺椅",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 1 打扫房间",
+              "source": "原书OCR校正",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "What a mess! Your room is so dirty!",
+                  "zh": "真乱呀！你的房间这么脏！"
+                },
+                {
+                  "who": "B",
+                  "en": "I know, but I don't have time to clean it up.",
+                  "zh": "我知道，但我没时间打扫。"
+                },
+                {
+                  "who": "A",
+                  "en": "Well, in just five minutes, you can put away the things that are on the floor at least.",
+                  "zh": "只要五分钟，你至少能把地板上的东西放好。"
+                },
+                {
+                  "who": "B",
+                  "en": "Yeah, I guess so.",
+                  "zh": "是的，我想是那样的。"
+                },
+                {
+                  "who": "A",
+                  "en": "I'll help you tidy up your room. Hey, what's this under the table?",
+                  "zh": "我来帮你打扫房间吧。嘿，桌子底下这是什么呀？"
+                },
+                {
+                  "who": "B",
+                  "en": "Oh, it's a broken clock. It doesn't work.",
+                  "zh": "哦，是一个坏掉的钟表，已经不走了。"
+                },
+                {
+                  "who": "A",
+                  "en": "Maybe I can fix it. Do you have a screwdriver?",
+                  "zh": "或许我能修好它。你有螺丝刀吗？"
+                },
+                {
+                  "who": "B",
+                  "en": "Well, I have to find my toolbox first.",
+                  "zh": "我得先找着我的工具箱。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "窗边陈设 Window and Living Room",
+          "page": 115,
+          "image": "ch4_imgs/page_115.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "window",
+              "phonetic": "ˈwɪndoʊ",
+              "chinese": "窗户",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "bay window",
+              "phonetic": "beɪ ˈwɪndoʊ",
+              "chinese": "凸窗",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "television",
+              "phonetic": "ˈtɛləˌvɪʒən",
+              "chinese": "电视机",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "clock",
+              "phonetic": "klɑk",
+              "chinese": "时钟；钟表",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "wall clock",
+              "phonetic": "wɔl klɑk",
+              "chinese": "挂钟",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "curtain",
+              "phonetic": "ˈkərtən",
+              "chinese": "窗帘",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "curtain rail",
+              "phonetic": "ˈkərtən reɪl",
+              "chinese": "窗帘导轨",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "radio",
+              "phonetic": "ˈreɪdiˌoʊ",
+              "chinese": "收音机",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "VCR",
+              "phonetic": "vcr*",
+              "chinese": "录像机",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "homemaker",
+              "phonetic": "ˈhoʊmˌmeɪkər",
+              "chinese": "家庭主妇；操持家务者",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "housewife",
+              "phonetic": "ˈhaʊsˌwaɪf",
+              "chinese": "家庭主妇",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "outlet",
+              "phonetic": "ˈaʊˌtlɛt",
+              "chinese": "电源插座",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 看电视",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "The curtain rail is broken again.",
+                  "zh": "窗帘导轨又坏了。"
+                },
+                {
+                  "who": "B",
+                  "en": "I'll fix it after I watch the news on television.",
+                  "zh": "我看完电视新闻就去修。"
+                },
+                {
+                  "who": "A",
+                  "en": "Turn on the radio; the baseball game is on.",
+                  "zh": "开收音机吧，棒球赛正在播。"
+                },
+                {
+                  "who": "B",
+                  "en": "Sure. The wall clock says it's almost eight.",
+                  "zh": "好。挂钟显示快八点了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "打扫清洁 Cleaning",
+          "page": 116,
+          "image": "ch4_imgs/page_116.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "messy",
+              "phonetic": "ˈmɛsi",
+              "chinese": "凌乱的，杂乱的",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "mess",
+              "phonetic": "mɛs",
+              "chinese": "混乱；脏乱的东西",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "dirty",
+              "phonetic": "ˈdərti",
+              "chinese": "脏的",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "dust",
+              "phonetic": "dəst",
+              "chinese": "灰尘；尘土",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "dusty",
+              "phonetic": "ˈdəsti",
+              "chinese": "满是灰尘的",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "brush",
+              "phonetic": "brəʃ",
+              "chinese": "刷子；毛刷",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "garbage can",
+              "phonetic": "/ˈɡɑrbɪdʒ kæn/",
+              "chinese": "垃圾桶；垃圾箱",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "trash can",
+              "phonetic": "træʃ kən",
+              "chinese": "垃圾桶",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "vacuum cleaner",
+              "phonetic": "/ˈvækjuəm ˌklinər/",
+              "chinese": "真空吸尘器",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "vacuum",
+              "phonetic": "/ˈvækjuəm/",
+              "chinese": "用真空吸尘器清扫",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "clean",
+              "phonetic": "klin",
+              "chinese": "清洁的；干净的",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "clean up",
+              "phonetic": "klin əp",
+              "chinese": "打扫干净；清理",
+              "notes": ""
+            },
+            {
+              "item_no": 13,
+              "english": "clear",
+              "phonetic": "klɪr",
+              "chinese": "清除；清理",
+              "notes": ""
+            },
+            {
+              "item_no": 14,
+              "english": "tidy (up)",
+              "phonetic": "ˈtaɪdi (əp)",
+              "chinese": "收拾；整理",
+              "notes": ""
+            },
+            {
+              "item_no": 15,
+              "english": "put away",
+              "phonetic": "pʊt əˈweɪ",
+              "chinese": "放好；收起来",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "My room is very messy now.",
+              "chinese": "我的房间现在很乱。",
+              "example": "My room is very messy now.",
+              "example_zh": "我的房间现在很乱。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Will you vacuum the floor?",
+              "chinese": "你用吸尘器吸一下地板好吗？",
+              "example": "Will you vacuum the floor?",
+              "example_zh": "你用吸尘器吸一下地板好吗？",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I'll clean the wall.",
+              "chinese": "我来擦墙。",
+              "example": "I'll clean the wall.",
+              "example_zh": "我来擦墙。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "scene": "垃圾与分类 Garbage",
+          "page": 117,
+          "image": "ch4_imgs/page_117.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "garbage",
+              "phonetic": "ˈgɑrbɪʤ",
+              "chinese": "垃圾；废物",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "trash",
+              "phonetic": "træʃ",
+              "chinese": "垃圾；废物",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "separate the garbage",
+              "phonetic": "ˈsɛpərˌeɪt ðə ˈgɑrbɪʤ",
+              "chinese": "把垃圾分类",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "combustible",
+              "phonetic": "/kənˈbʌstəbəl/",
+              "chinese": "可燃的；易燃的",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "non-combustible",
+              "phonetic": "non-combustible*",
+              "chinese": "不可燃的",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "put/take out the garbage",
+              "phonetic": "put/take* aʊt ðə ˈgɑrbɪʤ",
+              "chinese": "倒垃圾",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "dumpster",
+              "phonetic": "/ˈdʌmpstər/",
+              "chinese": "大垃圾桶",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "garbage dump",
+              "phonetic": "ˈgɑrbɪʤ dəmp",
+              "chinese": "垃圾场；垃圾填埋场",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "recycle",
+              "phonetic": "/riˈsaɪkəl/",
+              "chinese": "回收；再利用",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "paper recycling",
+              "phonetic": "ˈpeɪpər riˈsaɪkəlɪŋ",
+              "chinese": "纸张回收",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "throw away",
+              "phonetic": "θroʊ əˈweɪ",
+              "chinese": "扔掉；丢弃",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "empty",
+              "phonetic": "ˈɛmti",
+              "chinese": "清空；倒空",
+              "notes": ""
+            },
+            {
+              "item_no": 13,
+              "english": "garbage bag",
+              "phonetic": "ˈgɑrbɪʤ bæg",
+              "chinese": "垃圾袋",
+              "notes": ""
+            },
+            {
+              "item_no": 14,
+              "english": "garbage (collection) day",
+              "phonetic": "ˈgɑrbɪʤ (kəˈlɛkʃən) deɪ",
+              "chinese": "垃圾回收日",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I take out the garbage twice a week.",
+              "chinese": "我一周倒两次垃圾。",
+              "example": "I take out the garbage twice a week.",
+              "example_zh": "我一周倒两次垃圾。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "In our city, we have to separate the garbage.",
+              "chinese": "在我们城市，垃圾要分类。",
+              "example": "In our city, we have to separate the garbage.",
+              "example_zh": "在我们城市，垃圾要分类。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I emptied the trash can because it was full.",
+              "chinese": "垃圾筒满了，我把垃圾倒了。",
+              "example": "I emptied the trash can because it was full.",
+              "example_zh": "垃圾筒满了，我把垃圾倒了。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 倒垃圾",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "It's garbage collection day tomorrow.",
+                  "zh": "明天是垃圾回收日。"
+                },
+                {
+                  "who": "B",
+                  "en": "Don't forget to separate the combustible and non-combustible.",
+                  "zh": "别忘了把可燃和不可燃的分开。"
+                },
+                {
+                  "who": "A",
+                  "en": "I'll put the garbage bag by the door.",
+                  "zh": "我把垃圾袋放在门口。"
+                },
+                {
+                  "who": "B",
+                  "en": "And recycle the paper, please.",
+                  "zh": "还有请把纸拿去回收。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "拖地 Mopping the Floor",
+          "page": 118,
+          "image": "ch4_imgs/page_118.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "wipe the windows",
+              "phonetic": "waɪp ðə ˈwɪndoʊz",
+              "chinese": "擦窗户",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "wet",
+              "phonetic": "wɛt",
+              "chinese": "湿的；潮湿的",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "scrub",
+              "phonetic": "skrəb",
+              "chinese": "用力擦洗",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "squeeze",
+              "phonetic": "skwiz",
+              "chinese": "挤；握紧",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "remove",
+              "phonetic": "riˈmuv",
+              "chinese": "清除；去除",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "wipe off",
+              "phonetic": "waɪp ɔf",
+              "chinese": "擦掉；去除",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "bug",
+              "phonetic": "bəg",
+              "chinese": "小虫",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "cockroach",
+              "phonetic": "/ˈkɑkˌroʊtʃ/",
+              "chinese": "蟑螂",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "spray",
+              "phonetic": "spreɪ",
+              "chinese": "喷雾；喷雾器",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "insecticide",
+              "phonetic": "/ɪnˈsɛktɪˌsaɪd/",
+              "chinese": "杀虫剂",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I wiped the windows with a wet cloth.",
+              "chinese": "我用湿布擦窗户。",
+              "example": "I wiped the windows with a wet cloth.",
+              "example_zh": "我用湿布擦窗户。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I squeezed excess water from the cloth.",
+              "chinese": "我把布里多余的水挤掉。",
+              "example": "I squeezed excess water from the cloth.",
+              "example_zh": "我把布里多余的水挤掉。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 擦地",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "The floor is wet from mopping.",
+                  "zh": "拖完地地板还是湿的。"
+                },
+                {
+                  "who": "B",
+                  "en": "Let it dry. I just squeezed the cloth.",
+                  "zh": "让它干吧，我刚把布拧干。"
+                },
+                {
+                  "who": "A",
+                  "en": "There's a cockroach in the corner!",
+                  "zh": "角落里有只蟑螂！"
+                },
+                {
+                  "who": "B",
+                  "en": "I'll spray some insecticide.",
+                  "zh": "我来喷点杀虫剂。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "工具 Tools",
+          "page": 119,
+          "image": "ch4_imgs/page_119.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "repair",
+              "phonetic": "rɪˈpɛr",
+              "chinese": "维修；修理",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "fix",
+              "phonetic": "fɪks",
+              "chinese": "修理；修补",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "mend",
+              "phonetic": "mɛnd",
+              "chinese": "修补；缝补",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "broken",
+              "phonetic": "ˈbroʊkən",
+              "chinese": "坏的；破损的",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "tool",
+              "phonetic": "tul",
+              "chinese": "工具",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "toolbox",
+              "phonetic": "ˈtulˌbɔks",
+              "chinese": "工具箱",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "stepladder",
+              "phonetic": "/ˈstɛpˌlædər/",
+              "chinese": "四脚梯；活梯",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "ladder",
+              "phonetic": "ˈlædər",
+              "chinese": "梯子",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "rope",
+              "phonetic": "roʊp",
+              "chinese": "绳子",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "wrench",
+              "phonetic": "/rɛntʃ/",
+              "chinese": "扳手",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "hammer",
+              "phonetic": "ˈhæmər",
+              "chinese": "锤子",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "pincer",
+              "phonetic": "pincer*",
+              "chinese": "钳子",
+              "notes": ""
+            },
+            {
+              "item_no": 13,
+              "english": "pliers",
+              "phonetic": "plaɪərz",
+              "chinese": "钳子",
+              "notes": ""
+            },
+            {
+              "item_no": 14,
+              "english": "screwdriver",
+              "phonetic": "/ˈskruˌdraɪvər/",
+              "chinese": "螺丝刀",
+              "notes": ""
+            },
+            {
+              "item_no": 15,
+              "english": "hatchet",
+              "phonetic": "/ˈhætʃɪt/",
+              "chinese": "短柄斧",
+              "notes": ""
+            },
+            {
+              "item_no": 16,
+              "english": "saw",
+              "phonetic": "sɔ",
+              "chinese": "锯子",
+              "notes": ""
+            },
+            {
+              "item_no": 17,
+              "english": "ax",
+              "phonetic": "æks",
+              "chinese": "斧头",
+              "notes": ""
+            },
+            {
+              "item_no": 18,
+              "english": "bolt",
+              "phonetic": "boʊlt",
+              "chinese": "螺栓",
+              "notes": ""
+            },
+            {
+              "item_no": 19,
+              "english": "nut",
+              "phonetic": "nət",
+              "chinese": "螺母",
+              "notes": ""
+            },
+            {
+              "item_no": 20,
+              "english": "nail",
+              "phonetic": "neɪl",
+              "chinese": "钉子",
+              "notes": ""
+            },
+            {
+              "item_no": 21,
+              "english": "screw",
+              "phonetic": "skru",
+              "chinese": "螺丝；螺钉",
+              "notes": ""
+            },
+            {
+              "item_no": 22,
+              "english": "flashlight",
+              "phonetic": "/ˈflæʃˌlaɪt/",
+              "chinese": "手电筒",
+              "notes": ""
+            },
+            {
+              "item_no": 23,
+              "english": "tighten / loosen",
+              "phonetic": "ˈtaɪtən  ˈlusən",
+              "chinese": "旋紧/松开",
+              "notes": ""
+            },
+            {
+              "item_no": 24,
+              "english": "attachment",
+              "phonetic": "əˈtæʧmənt",
+              "chinese": "附件；连接物",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "Can you fix this broken toy?",
+              "chinese": "你能修好这个坏掉的玩具吗？",
+              "example": "Can you fix this broken toy?",
+              "example_zh": "你能修好这个坏掉的玩具吗？",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I have to mend this torn pocket.",
+              "chinese": "我得缝补这个破了的口袋。",
+              "example": "I have to mend this torn pocket.",
+              "example_zh": "我得缝补这个破了的口袋。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "It's dark in here. Get me a flashlight!",
+              "chinese": "这里太暗了，给我手电筒！",
+              "example": "It's dark in here. Get me a flashlight!",
+              "example_zh": "这里太暗了，给我手电筒！",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 修水管",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "The faucet is leaking. Do you have a wrench?",
+                  "zh": "水龙头漏水了，你有扳手吗？"
+                },
+                {
+                  "who": "B",
+                  "en": "Check the toolbox on the stepladder.",
+                  "zh": "看看活梯上的工具箱。"
+                },
+                {
+                  "who": "A",
+                  "en": "I need a screwdriver and a couple of screws.",
+                  "zh": "我需要螺丝刀和几颗螺丝。"
+                },
+                {
+                  "who": "B",
+                  "en": "Use the flashlight; it's dark under the sink.",
+                  "zh": "用手电筒，水槽底下很暗。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "洗衣 Washing",
+          "page": 124,
+          "image": "ch4_imgs/page_124.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "detergent",
+              "phonetic": "/dɪˈtɜrdʒənt/",
+              "chinese": "洗衣粉；洗涤剂",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "softener",
+              "phonetic": "/ˈsɔfənər/",
+              "chinese": "柔顺剂；柔软剂",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "proper amount",
+              "phonetic": "ˈprɑpər əˈmaʊnt",
+              "chinese": "适量",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "do the laundry",
+              "phonetic": "du ðə ˈlɔndri",
+              "chinese": "洗衣服",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "washing machine",
+              "phonetic": "/ˈwɑʃɪŋ məˈʃin/",
+              "chinese": "洗衣机",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "wash",
+              "phonetic": "wɑʃ",
+              "chinese": "洗；洗涤",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "rinse",
+              "phonetic": "rɪns",
+              "chinese": "漂洗；冲洗",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "load A with B",
+              "phonetic": "loʊd ə wɪθ bi",
+              "chinese": "把A装入B",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "laundry",
+              "phonetic": "/ˈlɔndri/",
+              "chinese": "要洗的衣物；洗衣店",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "hamper",
+              "phonetic": "/ˈhæmpər/",
+              "chinese": "洗衣篮",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "water temperature",
+              "phonetic": "ˈwɔtər ˈtɛmpərəʧər",
+              "chinese": "水温",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "bleach",
+              "phonetic": "bliʧ",
+              "chinese": "漂白剂",
+              "notes": ""
+            },
+            {
+              "item_no": 13,
+              "english": "warm water",
+              "phonetic": "wɔrm ˈwɔtər",
+              "chinese": "温水",
+              "notes": ""
+            },
+            {
+              "item_no": 14,
+              "english": "lukewarm water",
+              "phonetic": "ˈlukˈwɔrm ˈwɔtər",
+              "chinese": "微温水",
+              "notes": ""
+            },
+            {
+              "item_no": 15,
+              "english": "hot water",
+              "phonetic": "hɑt ˈwɔtər",
+              "chinese": "热水",
+              "notes": ""
+            },
+            {
+              "item_no": 16,
+              "english": "cold water",
+              "phonetic": "koʊld ˈwɔtər",
+              "chinese": "冷水",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I do the laundry every other day.",
+              "chinese": "我隔天洗一次衣服。",
+              "example": "I do the laundry every other day.",
+              "example_zh": "我隔天洗一次衣服。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Load the washing machine with the proper amount of detergent.",
+              "chinese": "按适量把洗涤剂放进洗衣机。",
+              "example": "Load the washing machine with the proper amount of detergent.",
+              "example_zh": "按适量把洗涤剂放进洗衣机。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I usually hang out my clothes to dry when it's sunny.",
+              "chinese": "天晴时我通常把衣服挂出去晾干。",
+              "example": "I usually hang out my clothes to dry when it's sunny.",
+              "example_zh": "天晴时我通常把衣服挂出去晾干。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 2 洗衣服",
+              "source": "原书OCR校正",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "We need to do the laundry. The hamper is full.",
+                  "zh": "我们得洗衣服了。洗衣筐都满了。"
+                },
+                {
+                  "who": "B",
+                  "en": "OK. I'll put the clothes in the washing machine.",
+                  "zh": "好。我这就把衣服都放到洗衣机里。"
+                },
+                {
+                  "who": "A",
+                  "en": "No, no! Don't put everything in at once! We have to see if we can wash them or not.",
+                  "zh": "别，别！不要一次把所有衣服都放进去！我们得看看能不能机洗。"
+                },
+                {
+                  "who": "B",
+                  "en": "Oh, right. Now, these sweatshirts are made of cotton and are machine washable.",
+                  "zh": "哦，对。这些运动衫都是棉质的，可以机洗。"
+                },
+                {
+                  "who": "A",
+                  "en": "But this skirt should be dry-cleaned only, and the same goes for this plaid jacket.",
+                  "zh": "但这件裙子只能干洗，这件格子夹克也得干洗。"
+                },
+                {
+                  "who": "B",
+                  "en": "I'll take them to the dry cleaner. I have to go there anyway.",
+                  "zh": "我把它们送到干洗店去。反正我也得去一趟。"
+                },
+                {
+                  "who": "A",
+                  "en": "Why?",
+                  "zh": "为什么？"
+                },
+                {
+                  "who": "B",
+                  "en": "I forgot to pick up my winter overcoat. It's been at the dry cleaner for almost a year!",
+                  "zh": "我忘了取我冬天的外套了。我忘在干洗店快有一年了！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "干洗 Dry Cleaning",
+          "page": 125,
+          "image": "ch4_imgs/page_125.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "air out the bedding in the sun",
+              "phonetic": "ɛr aʊt ðə ˈbɛdɪŋ ɪn ðə sən",
+              "chinese": "把床上用品晾在太阳下",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "dry-clean",
+              "phonetic": "/ˈdraɪ klin/",
+              "chinese": "干洗",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "dry cleaner",
+              "phonetic": "/ˈdraɪ ˌklinər/",
+              "chinese": "干洗店",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "take ... to the dry cleaner",
+              "phonetic": "teɪk  tɪ ðə draɪ ˈklinər",
+              "chinese": "把…送到干洗店",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "pick up ... from the dry cleaner",
+              "phonetic": "pɪk əp  frəm ðə draɪ ˈklinər",
+              "chinese": "从干洗店取回…",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "dark color",
+              "phonetic": "dɑrk ˈkələr",
+              "chinese": "深色",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "light color",
+              "phonetic": "laɪt ˈkələr",
+              "chinese": "浅色",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "machine washable",
+              "phonetic": "məˈʃin ˈwɑʃəbəl",
+              "chinese": "可机洗",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "striped",
+              "phonetic": "straɪpt",
+              "chinese": "有条纹的",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "laundry",
+              "phonetic": "/ˈlɔndri/",
+              "chinese": "洗衣；要洗的衣物",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 送干洗",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "This jacket is dark color; can it be machine washed?",
+                  "zh": "这件夹克是深色的，能机洗吗？"
+                },
+                {
+                  "who": "B",
+                  "en": "No, it says dry-clean only.",
+                  "zh": "不行，上面写只能干洗。"
+                },
+                {
+                  "who": "A",
+                  "en": "Then I'll take it to the dry cleaner.",
+                  "zh": "那我送去干洗店。"
+                },
+                {
+                  "who": "B",
+                  "en": "Pick it up on Friday, they said.",
+                  "zh": "他们说周五去取。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "熨烫 Ironing",
+          "page": 126,
+          "image": "ch4_imgs/page_126.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "starch",
+              "phonetic": "stɑrʧ",
+              "chinese": "上浆；浆糊",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "do the ironing",
+              "phonetic": "du ðə ˈaɪərnɪŋ",
+              "chinese": "熨烫（衣物）",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "smooth out handkerchiefs",
+              "phonetic": "smuð aʊt ˈhæŋkərʧəfs",
+              "chinese": "把手帕熨平",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "press",
+              "phonetic": "prɛs",
+              "chinese": "熨；压",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "iron",
+              "phonetic": "/ˈaɪərn/",
+              "chinese": "熨斗；熨烫",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "lint remover",
+              "phonetic": "/ˈlɪnt rɪˌmuvər/",
+              "chinese": "粘毛器；除毛器",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "rip",
+              "phonetic": "rɪp",
+              "chinese": "破；撕裂",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "take out/remove a stain",
+              "phonetic": "teɪk out/remove* ə steɪn",
+              "chinese": "去除污渍",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "worn-out",
+              "phonetic": "worn-out*",
+              "chinese": "磨破的；穿旧的",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "sew a button on the shirt",
+              "phonetic": "soʊ ə ˈbətən ɔn ðə ʃərt",
+              "chinese": "把纽扣缝在衬衫上",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I iron my pants instead of taking them to the dry cleaner.",
+              "chinese": "我自己熨裤子，不拿去干洗店。",
+              "example": "I iron my pants instead of taking them to the dry cleaner.",
+              "example_zh": "我自己熨裤子，不拿去干洗店。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Don't forget to starch your shirts before you iron them.",
+              "chinese": "熨衬衫前别忘了上浆。",
+              "example": "Don't forget to starch your shirts before you iron them.",
+              "example_zh": "熨衬衫前别忘了上浆。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "It's difficult to remove this coffee stain from my sweater.",
+              "chinese": "我毛衣上的咖啡渍很难去掉。",
+              "example": "It's difficult to remove this coffee stain from my sweater.",
+              "example_zh": "我毛衣上的咖啡渍很难去掉。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 熨衬衫",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "I have to do the ironing before work.",
+                  "zh": "上班前我得把衣服熨了。"
+                },
+                {
+                  "who": "B",
+                  "en": "Use the lint remover after you press the shirt.",
+                  "zh": "熨完衬衫用一下粘毛器。"
+                },
+                {
+                  "who": "A",
+                  "en": "There's a stain on the collar.",
+                  "zh": "衣领上有块污渍。"
+                },
+                {
+                  "who": "B",
+                  "en": "Try to remove it before ironing.",
+                  "zh": "熨之前先把它去掉。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "衣服·箱包·配饰 Clothes, Bags and Accessories",
+          "page": 127,
+          "image": "ch4_imgs/page_127.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "polo shirt",
+              "phonetic": "/ˈpoʊloʊ ʃɜrt/",
+              "chinese": "马球衫；Polo衫",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "overall",
+              "phonetic": "/ˈoʊvərˌɔl/",
+              "chinese": "工装裤；罩衫",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "sleeve",
+              "phonetic": "/sliv/",
+              "chinese": "袖子",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "pants",
+              "phonetic": "pænts",
+              "chinese": "裤子",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "slacks",
+              "phonetic": "/slæks/",
+              "chinese": "休闲裤；西裤",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "button",
+              "phonetic": "ˈbətən",
+              "chinese": "纽扣",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "pocket",
+              "phonetic": "ˈpɑkət",
+              "chinese": "口袋",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "button hole",
+              "phonetic": "/ˈbʌtən hoʊl/",
+              "chinese": "纽扣孔",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "collar",
+              "phonetic": "ˈkɑlər",
+              "chinese": "衣领",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "shirt",
+              "phonetic": "ʃərt",
+              "chinese": "衬衫",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "tie clip",
+              "phonetic": "taɪ klɪp",
+              "chinese": "领带夹",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "jacket",
+              "phonetic": "ˈʤækɪt",
+              "chinese": "夹克；短上衣",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "This leather jacket is fake.",
+              "chinese": "这件皮夹克是假的。",
+              "example": "This leather jacket is fake.",
+              "example_zh": "这件皮夹克是假的。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I like to wear T-shirts and jeans.",
+              "chinese": "我喜欢穿T恤和牛仔裤。",
+              "example": "I like to wear T-shirts and jeans.",
+              "example_zh": "我喜欢穿T恤和牛仔裤。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "scene": "内衣 Underwear",
+          "page": 128,
+          "image": "ch4_imgs/page_128.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "lingerie",
+              "phonetic": "/ˈlænʒəri/",
+              "chinese": "女式内衣",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "bra",
+              "phonetic": "/brɑ/",
+              "chinese": "胸罩",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "panties",
+              "phonetic": "/ˈpæntiz/",
+              "chinese": "女式内裤",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "underpants",
+              "phonetic": "/ˈʌndərˌpænts/",
+              "chinese": "内裤",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "shorts",
+              "phonetic": "ʃɔrts",
+              "chinese": "短裤",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "stockings",
+              "phonetic": "ˈstɑkɪŋz",
+              "chinese": "长筒袜",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "pantyhose",
+              "phonetic": "/ˈpæntiˌhoʊz/",
+              "chinese": "连裤袜",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "T-shirt",
+              "phonetic": "ˈtiˌsərt",
+              "chinese": "T恤衫",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "tank top",
+              "phonetic": "/ˈtæŋk tɑp/",
+              "chinese": "背心；无袖上衣",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "sportswear",
+              "phonetic": "/ˈspɔrtsˌwɛr/",
+              "chinese": "运动服",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "sweat suit",
+              "phonetic": "/ˈswɛt sut/",
+              "chinese": "运动套装；汗衫套装",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 收拾衣物",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Where are my clean panties and bra?",
+                  "zh": "我干净的内裤和胸罩在哪？"
+                },
+                {
+                  "who": "B",
+                  "en": "In the drawer, with the tank tops.",
+                  "zh": "在抽屉里，和背心放在一起。"
+                },
+                {
+                  "who": "A",
+                  "en": "I'll pack the sportswear for the trip.",
+                  "zh": "旅行我把运动服装进去。"
+                },
+                {
+                  "who": "B",
+                  "en": "Don't forget the sweat suit.",
+                  "zh": "别忘了运动套装。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "箱包与针织 Bags and Knitwear",
+          "page": 129,
+          "image": "ch4_imgs/page_129.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "tote bag",
+              "phonetic": "/ˈtoʊt bæg/",
+              "chinese": "手提袋；托特包",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "briefcase",
+              "phonetic": "/ˈbrifˌkeɪs/",
+              "chinese": "公文包",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "wallet",
+              "phonetic": "ˈwɔlət",
+              "chinese": "钱包",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "backpack",
+              "phonetic": "/ˈbækˌpæk/",
+              "chinese": "背包",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "brand-name item",
+              "phonetic": "brand-name* ˈaɪtəm",
+              "chinese": "名牌商品",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "sweater",
+              "phonetic": "/ˈswɛtər/",
+              "chinese": "毛衣",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "cardigan",
+              "phonetic": "/ˈkɑrdɪɡən/",
+              "chinese": "开襟毛衣",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "hat",
+              "phonetic": "hæt",
+              "chinese": "帽子",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "cap",
+              "phonetic": "kæp",
+              "chinese": "鸭舌帽；便帽",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "mittens",
+              "phonetic": "/ˈmɪtənz/",
+              "chinese": "连指手套",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "purse",
+              "phonetic": "pərs",
+              "chinese": "手提包；钱包",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "Wash your wool cardigan carefully, or it will shrink.",
+              "chinese": "羊毛开衫要小心洗，否则会缩水。",
+              "example": "Wash your wool cardigan carefully, or it will shrink.",
+              "example_zh": "羊毛开衫要小心洗，否则会缩水。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I took off my coat and a pair of gloves before I entered the house.",
+              "chinese": "进屋前我脱下外套和一副手套。",
+              "example": "I took off my coat and a pair of gloves before I entered the house.",
+              "example_zh": "进屋前我脱下外套和一副手套。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 买毛衣",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "This cardigan is a brand-name item.",
+                  "zh": "这件开襟毛衣是名牌。"
+                },
+                {
+                  "who": "B",
+                  "en": "Too pricey. The sweater on sale is fine.",
+                  "zh": "太贵了，打折那件毛衣就够了。"
+                },
+                {
+                  "who": "A",
+                  "en": "I'll put it in my tote bag.",
+                  "zh": "我把它放进托特包。"
+                },
+                {
+                  "who": "B",
+                  "en": "Grab your backpack; we're walking.",
+                  "zh": "拿上背包，我们走路去。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "厨房 Kitchen",
+          "page": 134,
+          "image": "ch4_imgs/page_134.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "kitchen",
+              "phonetic": "ˈkɪʧən",
+              "chinese": "厨房",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "oven",
+              "phonetic": "ˈəvən",
+              "chinese": "烤箱；炉灶",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "microwave (oven)",
+              "phonetic": "ˈmaɪkrəˌweɪv (ˈəvən)",
+              "chinese": "微波炉",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "rice cooker",
+              "phonetic": "/ˈraɪs ˌkʊkər/",
+              "chinese": "电饭锅；电饭煲",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "tableware",
+              "phonetic": "ˈteɪbəlˌwɛr",
+              "chinese": "餐具；炊具",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "freezer",
+              "phonetic": "/ˈfrizər/",
+              "chinese": "冷冻室；冰柜",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "plate",
+              "phonetic": "pleɪt",
+              "chinese": "盘子",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "toaster",
+              "phonetic": "/ˈtoʊstər/",
+              "chinese": "烤面包机",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "platter",
+              "phonetic": "ˈplætər",
+              "chinese": "大浅盘",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "faucet",
+              "phonetic": "ˈfɔsət",
+              "chinese": "水龙头",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "tap water",
+              "phonetic": "tæp ˈwɔtər",
+              "chinese": "自来水",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "stove",
+              "phonetic": "stoʊv",
+              "chinese": "炉子",
+              "notes": ""
+            },
+            {
+              "item_no": 13,
+              "english": "disposer",
+              "phonetic": "dɪˈspoʊzər",
+              "chinese": "垃圾处理器",
+              "notes": ""
+            },
+            {
+              "item_no": 14,
+              "english": "sink",
+              "phonetic": "sɪŋk",
+              "chinese": "洗碗池；洗涤槽",
+              "notes": ""
+            },
+            {
+              "item_no": 15,
+              "english": "refrigerator",
+              "phonetic": "/rɪˈfrɪdʒəˌreɪtər/",
+              "chinese": "冰箱",
+              "notes": ""
+            },
+            {
+              "item_no": 16,
+              "english": "drain",
+              "phonetic": "dreɪn",
+              "chinese": "下水道；排水管",
+              "notes": ""
+            },
+            {
+              "item_no": 17,
+              "english": "fan",
+              "phonetic": "fæn",
+              "chinese": "换气扇；风扇",
+              "notes": ""
+            },
+            {
+              "item_no": 18,
+              "english": "mat",
+              "phonetic": "mæt",
+              "chinese": "垫；垫子",
+              "notes": ""
+            },
+            {
+              "item_no": 19,
+              "english": "cupboard",
+              "phonetic": "ˈkəbərd",
+              "chinese": "碗柜；橱柜",
+              "notes": ""
+            },
+            {
+              "item_no": 20,
+              "english": "dishwasher",
+              "phonetic": "/ˈdɪʃˌwɑʃər/",
+              "chinese": "洗碗机",
+              "notes": ""
+            },
+            {
+              "item_no": 21,
+              "english": "blender",
+              "phonetic": "/ˈblɛndər/",
+              "chinese": "搅拌机",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "My father is good at cooking, and so am I.",
+              "chinese": "我爸爸擅长做饭，我也是。",
+              "example": "My father is good at cooking, and so am I.",
+              "example_zh": "我爸爸擅长做饭，我也是。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 厨房用具",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "The dishwasher is full again.",
+                  "zh": "洗碗机又满了。"
+                },
+                {
+                  "who": "B",
+                  "en": "Load the plates and put the cups in the cupboard.",
+                  "zh": "把盘子放进去，杯子收进碗柜。"
+                },
+                {
+                  "who": "A",
+                  "en": "The blender is on the counter.",
+                  "zh": "搅拌机在台面上。"
+                },
+                {
+                  "who": "B",
+                  "en": "And the refrigerator needs defrosting.",
+                  "zh": "冰箱也该除霜了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "厨房用具 Kitchenware",
+          "page": 135,
+          "image": "ch4_imgs/page_135.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "spatula",
+              "phonetic": "/ˈspætʃələ/",
+              "chinese": "锅铲；铲子",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "turner",
+              "phonetic": "ˈtərnər",
+              "chinese": "翻面铲；锅铲",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "paper towel",
+              "phonetic": "ˈpeɪpər taʊəl",
+              "chinese": "纸巾",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "bottle",
+              "phonetic": "ˈbɑtəl",
+              "chinese": "瓶子",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "scale",
+              "phonetic": "skeɪl",
+              "chinese": "秤",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "pitcher",
+              "phonetic": "ˈpɪʧər",
+              "chinese": "水壶；量杯",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "cutting board",
+              "phonetic": "ˈkətɪŋ bɔrd",
+              "chinese": "砧板；切菜板",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "peeler",
+              "phonetic": "ˈpilər",
+              "chinese": "削皮器",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "basket",
+              "phonetic": "ˈbæskət",
+              "chinese": "篮子",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "counter",
+              "phonetic": "ˈkaʊntər",
+              "chinese": "柜台；料理台",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "colander",
+              "phonetic": "/ˈkɑləndər/",
+              "chinese": "漏勺；滤锅",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "nonstick pan",
+              "phonetic": "/ˌnɑnˈstɪk ˈpæn/",
+              "chinese": "不粘锅",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 准备晚餐",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Hand me the spatula and the cutting board.",
+                  "zh": "把锅铲和砧板递给我。"
+                },
+                {
+                  "who": "B",
+                  "en": "The peeler is in the basket.",
+                  "zh": "削皮器在篮子里。"
+                },
+                {
+                  "who": "A",
+                  "en": "I'll rinse the vegetables in the colander.",
+                  "zh": "我用漏勺把菜冲一下。"
+                },
+                {
+                  "who": "B",
+                  "en": "Set the scale; we need exact amounts.",
+                  "zh": "放好秤，我们要准确分量。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "烹饪 Cooking",
+          "page": 136,
+          "image": "ch4_imgs/page_136.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "be good at cooking",
+              "phonetic": "bi gʊd æt ˈkʊkɪŋ",
+              "chinese": "擅长烹饪",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "peel",
+              "phonetic": "pil",
+              "chinese": "削（皮）；剥",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "mix",
+              "phonetic": "mɪks",
+              "chinese": "混合；搅拌",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "stir",
+              "phonetic": "stər",
+              "chinese": "搅拌；搅动",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "beat",
+              "phonetic": "bit",
+              "chinese": "打（蛋）；搅拌",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "kitchen knife",
+              "phonetic": "/ˈkɪtʃən naɪf/",
+              "chinese": "菜刀",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "sprinkle",
+              "phonetic": "ˈsprɪŋkəl",
+              "chinese": "撒；洒",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "crack / break an egg",
+              "phonetic": "kræk  breɪk ən ɛg",
+              "chinese": "打蛋；磕开蛋",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "electric mixer",
+              "phonetic": "/ɪˈlɛktrɪk ˈmɪksər/",
+              "chinese": "电动搅拌器",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "bowl",
+              "phonetic": "boʊl",
+              "chinese": "碗",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "mixing bowl",
+              "phonetic": "ˈmɪksɪŋ boʊl",
+              "chinese": "搅拌碗",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "separate an egg into",
+              "phonetic": "ˈsɛpərˌeɪt ən ɛg ˈɪntu",
+              "chinese": "把蛋黄和蛋白分开",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I often use frozen food because it's easy to prepare in a microwave.",
+              "chinese": "我常买冷冻食品，因为用微波炉很好做。",
+              "example": "I often use frozen food because it's easy to prepare in a microwave.",
+              "example_zh": "我常买冷冻食品，因为用微波炉很好做。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "You have to stir well.",
+              "chinese": "你得好好搅拌。",
+              "example": "You have to stir well.",
+              "example_zh": "你得好好搅拌。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 3 做午餐",
+              "source": "原书OCR校正",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "What are you doing?",
+                  "zh": "你在做什么？"
+                },
+                {
+                  "who": "B",
+                  "en": "I'm making some sandwiches and a salad for lunch. Can you give me a hand?",
+                  "zh": "我在准备午餐吃的三明治和一份沙拉。你能帮我吗？"
+                },
+                {
+                  "who": "A",
+                  "en": "Sure. What can I do?",
+                  "zh": "当然了。需要我做什么？"
+                },
+                {
+                  "who": "B",
+                  "en": "Will you peel these carrots and slice them?",
+                  "zh": "你能把这些胡萝卜去皮，然后切成薄片吗？"
+                },
+                {
+                  "who": "A",
+                  "en": "All right. What's in the pan?",
+                  "zh": "没问题。锅里是什么？"
+                },
+                {
+                  "who": "B",
+                  "en": "I'm boiling some eggs. I'll chop them and then mix them with mayonnaise and mustard to make sandwiches.",
+                  "zh": "我在煮鸡蛋。我会把它们剁碎，然后混上蛋黄酱和芥末，来做三明治。"
+                },
+                {
+                  "who": "A",
+                  "en": "Sounds delicious. Shall I make dressing for the salad?",
+                  "zh": "听起来很好吃。我来给沙拉调味好吗？"
+                },
+                {
+                  "who": "B",
+                  "en": "Yes, please. Here's the recipe. You can find oil and vinegar on the counter.",
+                  "zh": "当然。这是菜谱。油和醋就在台面上。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "煤气与炉灶 Gas and Stove",
+          "page": 137,
+          "image": "ch4_imgs/page_137.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "turn the gas on/off",
+              "phonetic": "tərn ðə gæs on/off*",
+              "chinese": "打开/关掉煤气",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "turn the gas up/down",
+              "phonetic": "tərn ðə gæs up/down*",
+              "chinese": "把煤气开大/关小",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "turn up/down the flame",
+              "phonetic": "tərn up/down* ðə fleɪm",
+              "chinese": "把火开大/关小",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "kettle",
+              "phonetic": "ˈkɛtəl",
+              "chinese": "水壶",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "put ... on the stove",
+              "phonetic": "pʊt  ɔn ðə stoʊv",
+              "chinese": "把…放在炉子上",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "burn",
+              "phonetic": "bərn",
+              "chinese": "烧；烫；燃烧",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "bake",
+              "phonetic": "beɪk",
+              "chinese": "烤；烘焙",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 煮汤",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Turn the gas up; the soup isn't boiling.",
+                  "zh": "把煤气开大，汤还没开。"
+                },
+                {
+                  "who": "B",
+                  "en": "Careful, don't burn it.",
+                  "zh": "小心，别烧糊了。"
+                },
+                {
+                  "who": "A",
+                  "en": "I'll put the kettle on the stove.",
+                  "zh": "我把水壶放炉子上。"
+                },
+                {
+                  "who": "B",
+                  "en": "Bake the bread after, okay?",
+                  "zh": "之后把面包烤一下，好吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "调料与酱汁 Sauces and Seasoning",
+          "page": 138,
+          "image": "ch4_imgs/page_138.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "preheated frying pan",
+              "phonetic": "preheated* fraɪɪŋ pæn",
+              "chinese": "预热好的煎锅",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "scoop with a ladle",
+              "phonetic": "skup wɪθ ə ˈleɪdəl",
+              "chinese": "用勺舀",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "store in the refrigerator",
+              "phonetic": "stɔr ɪn ðə rɪˈfrɪʤərˌeɪtər",
+              "chinese": "存放在冰箱里",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "soy sauce",
+              "phonetic": "/ˈsɔɪ sɔs/",
+              "chinese": "酱油",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "ingredients",
+              "phonetic": "ˌɪnˈgridiənts",
+              "chinese": "食材；配料",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "sweet and sour sauce",
+              "phonetic": "swit ənd saʊər sɔs",
+              "chinese": "糖醋酱",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "mayonnaise",
+              "phonetic": "/ˈmeɪəˌneɪz/",
+              "chinese": "蛋黄酱",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "pepper",
+              "phonetic": "ˈpɛpər",
+              "chinese": "胡椒",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "ketchup",
+              "phonetic": "/ˈkɛtʃəp/",
+              "chinese": "番茄酱",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "mustard",
+              "phonetic": "/ˈmʌstərd/",
+              "chinese": "芥末",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 调味",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Pass the soy sauce, please.",
+                  "zh": "请把酱油递给我。"
+                },
+                {
+                  "who": "B",
+                  "en": "Ketchup or mustard for the burger?",
+                  "zh": "汉堡要番茄酱还是芥末？"
+                },
+                {
+                  "who": "A",
+                  "en": "A little mayonnaise, thanks.",
+                  "zh": "一点蛋黄酱，谢谢。"
+                },
+                {
+                  "who": "B",
+                  "en": "Store the rest in the refrigerator.",
+                  "zh": "剩下的放冰箱里。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "冷冻食品 Frozen Food",
+          "page": 139,
+          "image": "ch4_imgs/page_139.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "defrost in microwave",
+              "phonetic": "dɪˈfrɔst ɪn ˈmaɪkrəˌweɪv",
+              "chinese": "用微波炉解冻",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "frozen food/meal",
+              "phonetic": "ˈfroʊzən food/meal*",
+              "chinese": "冷冻食品",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "measuring cup / spoon",
+              "phonetic": "ˈmɛʒərɪŋ kəp  spun",
+              "chinese": "量杯/量勺",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "measure",
+              "phonetic": "ˈmɛʒər",
+              "chinese": "量；测量",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "two teaspoons of sugar",
+              "phonetic": "tu ˈtiˌspunz əv ˈʃʊgər",
+              "chinese": "两茶匙糖",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "three cups of water",
+              "phonetic": "θri kəps əv ˈwɔtər",
+              "chinese": "三杯水",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "a pat of butter",
+              "phonetic": "ə pæt əv ˈbətər",
+              "chinese": "一小块黄油",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "a tablespoon of salt",
+              "phonetic": "ə ˈteɪbəlˌspun əv sɔlt",
+              "chinese": "一汤匙盐",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "two slices of bread",
+              "phonetic": "tu sˈlaɪsɪz əv brɛd",
+              "chinese": "两片面包",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "a spoonful",
+              "phonetic": "ə ˈspunˌfʊl",
+              "chinese": "一勺",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "The lid is hot. Use an oven mitt to hold it.",
+              "chinese": "盖子很烫，用烤箱手套拿。",
+              "example": "The lid is hot. Use an oven mitt to hold it.",
+              "example_zh": "盖子很烫，用烤箱手套拿。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 量食材",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Measure two teaspoons of sugar.",
+                  "zh": "量两茶匙糖。"
+                },
+                {
+                  "who": "B",
+                  "en": "And three cups of water for the mix.",
+                  "zh": "混合物再加三杯水。"
+                },
+                {
+                  "who": "A",
+                  "en": "I'll defrost the frozen meal in the microwave.",
+                  "zh": "我用微波炉解冻冷冻餐。"
+                },
+                {
+                  "who": "B",
+                  "en": "Add a pat of butter at the end.",
+                  "zh": "最后加一小块黄油。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "烹饪动作 Cooking Actions",
+          "page": 141,
+          "image": "ch4_imgs/page_141.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "Beat the egg whites with an egg beater until firm peaks form.",
+              "phonetic": "bit ðə ɛg waɪts wɪθ ən ɛg ˈbitər ənˈtɪl fərm piks fɔrm.",
+              "chinese": "用打蛋器打蛋白直到出现硬性发泡。",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "Sprinkle the salt and pepper into the bowl.",
+              "phonetic": "ˈsprɪŋkəl ðə sɔlt ənd ˈpɛpər ˈɪntu ðə boʊl.",
+              "chinese": "把盐和胡椒撒进碗里。",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "I turned the faucet on and filled the kettle with water.",
+              "phonetic": "aɪ tərnd ðə ˈfɔsət ɔn ənd fɪld ðə ˈkɛtəl wɪθ ˈwɔtər.",
+              "chinese": "我打开水龙头把水壶装满水。",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "Put the pot on the stove and turn up the flame.",
+              "phonetic": "pʊt ðə pɑt ɔn ðə stoʊv ənd tərn əp ðə fleɪm.",
+              "chinese": "把锅放在炉子上开大火。",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "I was baking some cookies, but I burned them carelessly.",
+              "phonetic": "aɪ wɑz ˈbeɪkɪŋ səm ˈkʊkiz, bət aɪ bərnd ðɛm ˈkɛrlɛsli.",
+              "chinese": "我在烤饼干，但不小心烤焦了。",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 打蛋",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Beat the egg whites until firm peaks form.",
+                  "zh": "打蛋白直到出现硬性发泡。"
+                },
+                {
+                  "who": "B",
+                  "en": "Sprinkle the salt and pepper into the bowl.",
+                  "zh": "把盐和胡椒撒进碗里。"
+                },
+                {
+                  "who": "A",
+                  "en": "Turn on the faucet and fill the kettle.",
+                  "zh": "打开水龙头把水壶装满。"
+                },
+                {
+                  "who": "B",
+                  "en": "Don't burn the cookies this time.",
+                  "zh": "这次别把饼干烤焦了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "洗衣与衣物护理 Laundry and Care",
+          "page": 142,
+          "image": "ch4_imgs/page_142.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "I reheated the leftover stew.",
+              "phonetic": "aɪ reheated* ðə ˈlɛfˌtoʊvər stu.",
+              "chinese": "我把剩的炖菜重新加热。",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "I have to chill the sauce in the refrigerator.",
+              "phonetic": "aɪ hæv tɪ ʧɪl ðə sɔs ɪn ðə rɪˈfrɪʤərˌeɪtər.",
+              "chinese": "我得把酱汁放在冰箱里冷藏。",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "The recipe tells you what kinds of ingredients you need.",
+              "phonetic": "ðə ˈrɛsəpi tɛlz ju wət kaɪnz əv ˌɪnˈgridiənts ju nid.",
+              "chinese": "食谱会告诉你需要的食材。",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "I took a frozen pizza out of the freezer.",
+              "phonetic": "aɪ tʊk ə ˈfroʊzən ˈpitsə aʊt əv ðə ˈfrizər.",
+              "chinese": "我从冷冻室拿出冷冻披萨。",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "Can you measure two tablespoons of sugar?",
+              "phonetic": "kən ju ˈmɛʒər tu ˈteɪbəlˌspunz əv ˈʃʊgər?",
+              "chinese": "你能量两汤匙糖吗？",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 冷藏与加热",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Chill the sauce in the refrigerator.",
+                  "zh": "把酱汁放冰箱冷藏。"
+                },
+                {
+                  "who": "B",
+                  "en": "The recipe says what ingredients we need.",
+                  "zh": "食谱写了我们需要的食材。"
+                },
+                {
+                  "who": "A",
+                  "en": "I'll reheat the leftover stew.",
+                  "zh": "我把剩的炖菜重新加热。"
+                },
+                {
+                  "who": "B",
+                  "en": "Take the frozen pizza out of the freezer.",
+                  "zh": "从冷冻室拿冷冻披萨出来。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
