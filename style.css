@@ -180,7 +180,7 @@ main { max-width: 1120px; margin: 0 auto; padding: 18px 16px 60px; }
 
   main { padding: 12px 12px 64px; }
   .stage { gap: 12px; }
-  .stage-left img { max-height: 300px; object-fit: contain; }
+  .stage-left img { width: 100%; height: auto; max-height: none; }
 
   /* 图鉴：2 列，中文整行显示避免错位 */
   .atlas-list { grid-template-columns: 1fr 1fr; gap: 8px; }
@@ -217,6 +217,6 @@ main { max-width: 1120px; margin: 0 auto; padding: 18px 16px 60px; }
 @media (max-width: 400px) {
   .atlas-list { grid-template-columns: 1fr; }
   .atlas-item .cn { font-size: 13px; }
-  .stage-left img { max-height: 260px; }
+  .stage-left img { max-height: none; }
   .mode-btn { padding: 8px 11px; font-size: 12px; }
 }
