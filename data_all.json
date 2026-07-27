@@ -15212,6 +15212,2099 @@
           ]
         }
       ]
+    },
+    {
+      "chapter": "Chapter 6 In the Evening 在晚上",
+      "scenes": [
+        {
+          "scene": "餐厅·露天用餐 Restaurant",
+          "page": 180,
+          "image": "ch6_imgs/page_180.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "restaurant",
+              "phonetic": "ˈrɛˌstrɑnt",
+              "chinese": "餐厅；餐馆",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "sidewalk dining",
+              "phonetic": "/ˈsaɪdˌwɔk ˈdaɪnɪŋ/",
+              "chinese": "露天就餐；街边用餐",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": []
+        },
+        {
+          "scene": "餐厅·点餐 Ordering",
+          "page": 181,
+          "image": "ch6_imgs/page_181.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "waiter/waitress",
+              "phonetic": "/ˈweɪtər/ˈweɪtrəs/",
+              "chinese": "男服务员／女服务员",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "recommend",
+              "phonetic": "/ˌrɛkəˈmɛnd/",
+              "chinese": "推荐；建议",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "menu",
+              "phonetic": "ˈmɛnju",
+              "chinese": "菜单",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "order",
+              "phonetic": "ˈɔrdər",
+              "chinese": "点餐；订单",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "today's special",
+              "phonetic": "/təˈdeɪz ˈspɛʃəl/",
+              "chinese": "今日特餐",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "chef's specialties",
+              "phonetic": "/ʃɛfs ˈspɛʃəltiz/",
+              "chinese": "主厨特色菜",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "Check, please.",
+              "phonetic": "/tʃɛk pliz/",
+              "chinese": "请买单。",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "pay at the table",
+              "phonetic": "/peɪ æt ðə ˈteɪbəl/",
+              "chinese": "在座位上结账",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "second helping",
+              "phonetic": "/ˈsɛkənd ˈhɛlpɪŋ/",
+              "chinese": "再来一份；添菜",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "free refill",
+              "phonetic": "/fri rɪˈfɪl/",
+              "chinese": "免费续杯",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I waited for my girlfriend at a coffee shop.",
+              "chinese": "我在咖啡店等我的女朋友。",
+              "example": "I waited for my girlfriend at a coffee shop.",
+              "example_zh": "我在咖啡店等我的女朋友。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I stopped at a food stall and got some snacks.",
+              "chinese": "我在一家大排档坐了一会儿，吃了些小点心。",
+              "example": "I stopped at a food stall and got some snacks.",
+              "example_zh": "我在一家大排档坐了一会儿，吃了些小点心。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Do you have a reservation?",
+              "chinese": "您预约了吗？",
+              "example": "Do you have a reservation?",
+              "example_zh": "您预约了吗？",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "How many in your party?",
+              "chinese": "与您同行的有几个人？",
+              "example": "How many in your party?",
+              "example_zh": "与您同行的有几个人？",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "The waiter approached our table with menus.",
+              "chinese": "服务生拿着菜单来到我们坐的桌子前。",
+              "example": "The waiter approached our table with menus.",
+              "example_zh": "服务生拿着菜单来到我们坐的桌子前。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Are you ready to order?",
+              "chinese": "您可以点餐了吗？",
+              "example": "Are you ready to order?",
+              "example_zh": "您可以点餐了吗？",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Can I take your order?",
+              "chinese": "我可以为您点餐了吗？",
+              "example": "Can I take your order?",
+              "example_zh": "我可以为您点餐了吗？",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 1 餐厅预约",
+              "source": "原书OCR校正",
+              "lines": [
+                {
+                  "who": "Lisa",
+                  "en": "The tables seem full. Did you make a reservation?",
+                  "zh": "桌子似乎都坐满了。你预约了吗？"
+                },
+                {
+                  "who": "Tom",
+                  "en": "No, I didn't. I guess we have to wait at the bar for a while.",
+                  "zh": "没有。我想我们得在吧台那里等一会儿了。"
+                },
+                {
+                  "who": "Lisa",
+                  "en": "Don't drink too much, though. You'll get dizzy if you drink too much on an empty stomach.",
+                  "zh": "但别喝太多。如果空腹喝太多酒，你会头晕的。"
+                },
+                {
+                  "who": "Tom",
+                  "en": "Don't worry, I'll be careful. What would you like to drink?",
+                  "zh": "别担心，我会注意的。你想喝点什么？"
+                },
+                {
+                  "who": "Lisa",
+                  "en": "I think I'll have a glass of sparkling wine.",
+                  "zh": "我想我还是喝一杯起泡葡萄酒吧。"
+                },
+                {
+                  "who": "Tom",
+                  "en": "Me, too. Here. Let's make a toast. Cheers!",
+                  "zh": "我也是。给。让我们共同举杯。干杯！"
+                },
+                {
+                  "who": "Lisa",
+                  "en": "(After a while) Oh, looks like our table is ready. Shall we go?",
+                  "zh": "（过了一会儿）啊，我们好像有位子了。可以去了吗？"
+                },
+                {
+                  "who": "Tom",
+                  "en": "Yes, I'm so hungry. I can't wait to eat!",
+                  "zh": "当然，我太饿了。等不及了！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "菜肴 Cuisine",
+          "page": 182,
+          "image": "ch6_imgs/page_182.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "green salad",
+              "phonetic": "/ɡrin ˈsæləd/",
+              "chinese": "蔬菜沙拉",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "Thousand Island dressing",
+              "phonetic": "/ˈθaʊzənd ˈaɪlənd ˈdrɛsɪŋ/",
+              "chinese": "千岛酱",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "steak",
+              "phonetic": "steɪk",
+              "chinese": "牛排",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "gravy",
+              "phonetic": "/ˈɡreɪvi/",
+              "chinese": "肉汁；卤汁",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "horseradish sauce",
+              "phonetic": "/ˈhɔrsˌrædɪʃ sɔs/",
+              "chinese": "辣根酱",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "gravy boat",
+              "phonetic": "/ˈɡreɪvi boʊt/",
+              "chinese": "酱汁船；肉汁壶",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": []
+        },
+        {
+          "scene": "快餐与甜点 Fast Food and Desserts",
+          "page": 183,
+          "image": "ch6_imgs/page_183.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "ice cream",
+              "phonetic": "/aɪs krim/",
+              "chinese": "冰淇淋",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "cream cone",
+              "phonetic": "/krim koʊn/",
+              "chinese": "蛋筒；甜筒",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "sherbet",
+              "phonetic": "/ˈʃɜrbət/",
+              "chinese": "雪葩；果汁冰糕",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "Chinese noodles",
+              "phonetic": "ʧaɪˈniz ˈnudəlz",
+              "chinese": "中式面条",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "dim sum",
+              "phonetic": "/dɪm ˈsʌm/",
+              "chinese": "点心",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "fried noodles/rice",
+              "phonetic": "frid noodles/rice*",
+              "chinese": "炒面／炒饭",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "French fries",
+              "phonetic": "/frɛntʃ fraɪz/",
+              "chinese": "炸薯条",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "For here or to go?",
+              "phonetic": "/fɔr hɪr ɔr tu ɡoʊ/",
+              "chinese": "堂食还是带走？",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "hamburger",
+              "phonetic": "/ˈhæmbɜrɡər/",
+              "chinese": "汉堡包",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "sandwich",
+              "phonetic": "/ˈsændwɪtʃ/",
+              "chinese": "三明治",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "combo",
+              "phonetic": "/ˈkɑmboʊ/",
+              "chinese": "套餐；组合餐",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": []
+        },
+        {
+          "scene": "酒吧与自助餐 Bar and Buffet",
+          "page": 184,
+          "image": "ch6_imgs/page_184.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "surf and turf",
+              "phonetic": "/sɜrf ənd tɜrf/",
+              "chinese": "海陆双拼（牛排加海鲜）",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "vegetarian cookery",
+              "phonetic": "/ˌvɛdʒəˈtɛriən ˈkʊkəri/",
+              "chinese": "素食料理",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "meat-free cooking",
+              "phonetic": "/mit fri ˈkʊkɪŋ/",
+              "chinese": "无肉料理",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "all-you-can-eat buffet",
+              "phonetic": "/ɔl jə kən it bəˈfeɪ/",
+              "chinese": "任吃自助餐",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "bar",
+              "phonetic": "bɑr",
+              "chinese": "酒吧",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "regular",
+              "phonetic": "ˈrɛgjələr",
+              "chinese": "常客；老主顾",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "customer",
+              "phonetic": "ˈkəstəmər",
+              "chinese": "顾客",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "cocktail",
+              "phonetic": "/ˈkɑkˌteɪl/",
+              "chinese": "鸡尾酒",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 自助餐",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Are you a regular here?",
+                  "zh": "你是这里的常客吗？"
+                },
+                {
+                  "who": "B",
+                  "en": "Kind of. I love the all-you-can-eat buffet.",
+                  "zh": "算是吧。我很喜欢这里的任吃自助餐。"
+                },
+                {
+                  "who": "A",
+                  "en": "Me too. The surf and turf is amazing.",
+                  "zh": "我也是。海陆双拼太赞了。"
+                },
+                {
+                  "who": "B",
+                  "en": "Try the vegetarian cookery corner as well.",
+                  "zh": "也试试素食料理区。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "酒水与小吃 Drinks and Snacks",
+          "page": 185,
+          "image": "ch6_imgs/page_185.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "on the rocks",
+              "phonetic": "/ɑn ðə rɑks/",
+              "chinese": "加冰块的（酒）",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "shot glass",
+              "phonetic": "/ʃɑt ɡlæs/",
+              "chinese": "小酒杯；烈酒杯",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "sparkling wine",
+              "phonetic": "/ˈspɑrkəlɪŋ waɪn/",
+              "chinese": "气泡酒；香槟类",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "beer mug",
+              "phonetic": "/bɪr mʌɡ/",
+              "chinese": "啤酒杯",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "snack",
+              "phonetic": "snæk",
+              "chinese": "小吃；零食",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "pretzel",
+              "phonetic": "ˈprɛtzəl",
+              "chinese": "椒盐卷饼",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "popcorn",
+              "phonetic": "ˈpɑpˌkɔrn",
+              "chinese": "爆米花",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "cheese platter",
+              "phonetic": "/tʃiz ˈplætər/",
+              "chinese": "芝士拼盘",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "mixed nuts",
+              "phonetic": "/mɪkst nʌts/",
+              "chinese": "什锦坚果",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "toothpick",
+              "phonetic": "/ˈtuθˌpɪk/",
+              "chinese": "牙签",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "chip",
+              "phonetic": "ʧɪp",
+              "chinese": "薯片",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 点酒",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "What would you like to drink?",
+                  "zh": "你想喝点什么？"
+                },
+                {
+                  "who": "B",
+                  "en": "I'll have a glass of sparkling wine on the rocks.",
+                  "zh": "我要一杯加冰的气泡酒。"
+                },
+                {
+                  "who": "A",
+                  "en": "And a beer mug for me, plus some popcorn and mixed nuts.",
+                  "zh": "给我来个大啤酒杯，再来点爆米花和什锦坚果。"
+                },
+                {
+                  "who": "B",
+                  "en": "Good choice for the movie night.",
+                  "zh": "很适合今晚看电影。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "餐厅用餐 Dining",
+          "page": 187,
+          "image": "ch6_imgs/page_187.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "today's special",
+              "phonetic": "/təˈdeɪz ˈspɛʃəl/",
+              "chinese": "今日特餐",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "seconds",
+              "phonetic": "ˈsɛkəndz",
+              "chinese": "第二份；添菜",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "free refill",
+              "phonetic": "/fri rɪˈfɪl/",
+              "chinese": "免费续杯",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "medium rare",
+              "phonetic": "/ˈmidiəm rɛr/",
+              "chinese": "（牛排）三分熟",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "all-you-can-eat buffet",
+              "phonetic": "/ɔl jə kən it bəˈfeɪ/",
+              "chinese": "任吃自助餐",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 加菜续杯",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "The steak is delicious. Can I have seconds?",
+                  "zh": "这牛排真好吃。我能再来一份吗？"
+                },
+                {
+                  "who": "B",
+                  "en": "Sure. And you can get free refills on soft drinks.",
+                  "zh": "当然。软饮还可以免费续杯。"
+                },
+                {
+                  "who": "A",
+                  "en": "Great. This restaurant is famous for its all-you-can-eat buffet on Fridays.",
+                  "zh": "太好了。这家餐厅周五的任吃自助餐很有名。"
+                },
+                {
+                  "who": "B",
+                  "en": "Next time let's come on a Friday, then.",
+                  "zh": "那下次咱们周五来吧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "敬酒与咖啡 Toasts and Coffee",
+          "page": 188,
+          "image": "ch6_imgs/page_188.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "propose a toast",
+              "phonetic": "/prəˈpoʊz ə toʊst/",
+              "chinese": "提议干杯",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "get drunk",
+              "phonetic": "/ɡɛt drʌŋk/",
+              "chinese": "喝醉",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "straw",
+              "phonetic": "strɔ",
+              "chinese": "吸管",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "iced tea",
+              "phonetic": "/aɪst ti/",
+              "chinese": "冰茶",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "espresso",
+              "phonetic": "/ɛˈsprɛsoʊ/",
+              "chinese": "意式浓缩咖啡",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "strong flavor",
+              "phonetic": "/strɔŋ ˈfleɪvər/",
+              "chinese": "浓郁的味道",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": []
+        },
+        {
+          "scene": "回家 Getting Home",
+          "page": 190,
+          "image": "ch6_imgs/page_190.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "check one's answering machine",
+              "phonetic": "/tʃɛk wʌnz ˈænsərɪŋ məˈʃin/",
+              "chinese": "查留言机",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "make a phone call to a friend",
+              "phonetic": "/meɪk ə foʊn kɔl tu ə frɛnd/",
+              "chinese": "给朋友打电话",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "video",
+              "phonetic": "ˈvɪdioʊ",
+              "chinese": "录像带；视频",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "watch a film on DVD",
+              "phonetic": "/wɑtʃ ə fɪlm ɑn di vi di/",
+              "chinese": "用DVD看电影",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "rent (some) videos",
+              "phonetic": "/rɛnt ˈvɪdiˌoʊz/",
+              "chinese": "租录像带",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "burn the midnight oil",
+              "phonetic": "/bɜrn ðə ˈmɪdˌnaɪt ɔɪl/",
+              "chinese": "开夜车；熬夜（备考）",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "put a CD into the CD player",
+              "phonetic": "/pʊt ə si di ɪntə ðə si di ˈpleɪər/",
+              "chinese": "把CD放入播放器",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 2 回家",
+              "source": "原书OCR校正",
+              "lines": [
+                {
+                  "who": "Tom",
+                  "en": "Hi! I'm back!",
+                  "zh": "嗨，我回来了！"
+                },
+                {
+                  "who": "Lisa",
+                  "en": "Oh, hi! I just came home, too.",
+                  "zh": "哦，嗨！我也是刚刚到家。"
+                },
+                {
+                  "who": "Tom",
+                  "en": "Did you check the answering machine?",
+                  "zh": "你查看电话留言了吗？"
+                },
+                {
+                  "who": "Lisa",
+                  "en": "Yeah, but there were no new messages.",
+                  "zh": "查过了，不过没有新留言。"
+                },
+                {
+                  "who": "Tom",
+                  "en": "Turn on the TV, will you? I have to see the weather forecast for tomorrow.",
+                  "zh": "能打开电视吗？我得看看明天的天气预报。"
+                },
+                {
+                  "who": "Lisa",
+                  "en": "There are no news programs until eleven. Why don't we watch the video we rented yesterday until then?",
+                  "zh": "在十一点之前没有新闻节目。在这之前，我们还是看昨天租的录像带吧，你觉得怎么样？"
+                },
+                {
+                  "who": "Tom",
+                  "en": "Yeah, but I will check my e-mail first. I can also see tomorrow's weather on the Internet.",
+                  "zh": "好啊，不过我得先查一下电子邮件。我也可以从互联网上查看明天的天气。"
+                },
+                {
+                  "who": "Lisa",
+                  "en": "OK. I'll watch TV for a while. Join me when you're finished.",
+                  "zh": "好。我先看会电视。等你查完了就来跟我一起看吧。"
+                }
+              ]
+            },
+            {
+              "title": "Dialogue 查留言",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "I just got home. Let me check the answering machine.",
+                  "zh": "我刚到家。让我查一下留言机。"
+                },
+                {
+                  "who": "B",
+                  "en": "Any new messages?",
+                  "zh": "有新留言吗？"
+                },
+                {
+                  "who": "A",
+                  "en": "No, nothing. I'll put a CD into the CD player and relax.",
+                  "zh": "没有。我放张CD到播放器里放松一下。"
+                },
+                {
+                  "who": "B",
+                  "en": "Don't burn the midnight oil again, okay?",
+                  "zh": "别又开夜车了，好吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "电视 Television",
+          "page": 191,
+          "image": "ch6_imgs/page_191.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "television",
+              "phonetic": "ˈtɛləˌvɪʒən",
+              "chinese": "电视",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "cable television",
+              "phonetic": "/ˈkeɪbəl ˈtɛləˌvɪʒən/",
+              "chinese": "有线电视",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "news (program)",
+              "phonetic": "/nuz ˈproʊɡræm/",
+              "chinese": "新闻（节目）",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "documentary (program)",
+              "phonetic": "/ˌdɑkjəˈmɛntəri ˈproʊɡræm/",
+              "chinese": "纪录片（节目）",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "season",
+              "phonetic": "ˈsizən",
+              "chinese": "季；季节",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "be hooked on soap operas",
+              "phonetic": "/bi hʊkt ɑn soʊp ˈɑpərəz/",
+              "chinese": "迷上看肥皂剧",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "be addicted to the show",
+              "phonetic": "/bi əˈdɪktɪd tu ðə ʃoʊ/",
+              "chinese": "对节目上瘾",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "variety (program/show)",
+              "phonetic": "/vəˈraɪəti ˈproʊɡræm/",
+              "chinese": "综艺（节目）",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I often rent videos to watch on the weekend.",
+              "chinese": "我经常租录像带在周末看。",
+              "example": "I often rent videos to watch on the weekend.",
+              "example_zh": "我经常租录像带在周末看。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I put my favorite CD into the CD player.",
+              "chinese": "我把最爱的CD放到CD机里。",
+              "example": "I put my favorite CD into the CD player.",
+              "example_zh": "我把最爱的CD放到CD机里。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "The program wasn't interesting, so I switched to another channel.",
+              "chinese": "这个节目没意思，所以我换到了另一个频道。",
+              "example": "The program wasn't interesting, so I switched to another channel.",
+              "example_zh": "这个节目没意思，所以我换到了另一个频道。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Turn down the volume; it's too loud.",
+              "chinese": "把音量调低一点；太吵了。",
+              "example": "Turn down the volume; it's too loud.",
+              "example_zh": "把音量调低一点；太吵了。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "The news report was live from the scene.",
+              "chinese": "新闻报道是现场直播。",
+              "example": "The news report was live from the scene.",
+              "example_zh": "新闻报道是现场直播。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 换台",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "This show is boring. Let me switch to another channel.",
+                  "zh": "这个节目好无聊。我换个频道吧。"
+                },
+                {
+                  "who": "B",
+                  "en": "Turn down the volume a bit; it's too loud.",
+                  "zh": "把音量调低一点，太吵了。"
+                },
+                {
+                  "who": "A",
+                  "en": "Fine. The documentary on cable television looks good.",
+                  "zh": "好的。有线电视上的纪录片看起来不错。"
+                },
+                {
+                  "who": "B",
+                  "en": "I'm hooked on this soap opera, though.",
+                  "zh": "不过我迷上看这部肥皂剧了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "电视节目 TV Shows",
+          "page": 192,
+          "image": "ch6_imgs/page_192.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "panelist",
+              "phonetic": "/ˈpænəlɪst/",
+              "chinese": "座谈嘉宾；评审",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "panel show",
+              "phonetic": "/ˈpænəl ʃoʊ/",
+              "chinese": "座谈节目",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "game show",
+              "phonetic": "/ɡeɪm ʃoʊ/",
+              "chinese": "益智问答节目",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "snack on junk food",
+              "phonetic": "/snæk ɑn dʒʌŋk fud/",
+              "chinese": "吃垃圾食品当零食",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "weather forecast",
+              "phonetic": "/ˈwɛðər ˈfɔrˌkæst/",
+              "chinese": "天气预报",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 天气预报",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "The weather forecast says a storm warning was issued.",
+                  "zh": "天气预报说发布了风暴预警。"
+                },
+                {
+                  "who": "B",
+                  "en": "A typhoon is approaching, so it'll be humid and rainy.",
+                  "zh": "台风要来了，所以会潮湿多雨。"
+                },
+                {
+                  "who": "A",
+                  "en": "Let's stay in and watch a game show instead.",
+                  "zh": "那我们待在家看益智问答节目吧。"
+                },
+                {
+                  "who": "B",
+                  "en": "Good idea. I'll grab some snacks on junk food.",
+                  "zh": "好主意。我去拿点垃圾食品当零食。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "读书 Reading Books",
+          "page": 194,
+          "image": "ch6_imgs/page_194.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "picture story book",
+              "phonetic": "/ˈpɪktʃər ˈstɔri bʊk/",
+              "chinese": "图画故事书",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "hard-boiled",
+              "phonetic": "/hɑrd ˈbɔɪld/",
+              "chinese": "硬汉派（侦探小说）",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "romance",
+              "phonetic": "ˈroʊmæns",
+              "chinese": "爱情小说",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "horror story",
+              "phonetic": "/ˈhɔrər ˈstɔri/",
+              "chinese": "恐怖故事",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "fantasy",
+              "phonetic": "ˈfænəsi",
+              "chinese": "奇幻（小说）",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "science fiction",
+              "phonetic": "/ˈsaɪəns ˈfɪkʃən/",
+              "chinese": "科幻小说",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I skim the newspaper headlines every morning.",
+              "chinese": "我每天早上都会浏览报纸的头条。",
+              "example": "I skim the newspaper headlines every morning.",
+              "example_zh": "我每天早上都会浏览报纸的头条。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I like to read novels in my free time.",
+              "chinese": "我闲暇时喜欢读小说。",
+              "example": "I like to read novels in my free time.",
+              "example_zh": "我闲暇时喜欢读小说。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 借书",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "I skim the newspaper headlines every morning.",
+                  "zh": "我每天早上都浏览报纸头条。"
+                },
+                {
+                  "who": "B",
+                  "en": "I prefer novels. My favorite is science fiction.",
+                  "zh": "我更喜欢小说。我最爱科幻小说。"
+                },
+                {
+                  "who": "A",
+                  "en": "I like fantasy and the occasional horror story.",
+                  "zh": "我喜欢奇幻，偶尔也看恐怖故事。"
+                },
+                {
+                  "who": "B",
+                  "en": "Let's swap books this weekend.",
+                  "zh": "这周末咱们换书看吧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "电脑与游戏 PC and Games",
+          "page": 195,
+          "image": "ch6_imgs/page_195.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "Internet",
+              "phonetic": "ˈɪntərˌnɛt",
+              "chinese": "互联网",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "online shopping",
+              "phonetic": "/ˈɑnˌlaɪn ˈʃɑpɪŋ/",
+              "chinese": "网络购物",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "check one's mail (account)",
+              "phonetic": "/tʃɛk wʌnz meɪl əˈkaʊnt/",
+              "chinese": "查邮件（账户）",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "Internet auction",
+              "phonetic": "/ˈɪntərˌnɛt ˈɔkʃən/",
+              "chinese": "网络拍卖",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "website",
+              "phonetic": "ˈwɛbˌsaɪt",
+              "chinese": "网站",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "computer game",
+              "phonetic": "/kəmˈpjutər ɡeɪm/",
+              "chinese": "电脑游戏",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "video game",
+              "phonetic": "/ˈvɪdiˌoʊ ɡeɪm/",
+              "chinese": "电子游戏",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "play a video game",
+              "phonetic": "/pleɪ ə ˈvɪdiˌoʊ ɡeɪm/",
+              "chinese": "玩电子游戏",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "tell fortunes with cards",
+              "phonetic": "/tɛl ˈfɔrtʃənz wɪð kɑrdz/",
+              "chinese": "用牌算命",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "play the latest game",
+              "phonetic": "/pleɪ ðə ˈleɪtəst ɡeɪm/",
+              "chinese": "玩最新游戏",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "play mah-jongg",
+              "phonetic": "/pleɪ ˈmɑdʒɑŋ/",
+              "chinese": "打麻将",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "Checking e-mail messages on your cell phone can become a habit.",
+              "chinese": "通过手机查看电子邮件信息会成为一种习惯。",
+              "example": "Checking e-mail messages on your cell phone can become a habit.",
+              "example_zh": "通过手机查看电子邮件信息会成为一种习惯。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "These days some people cannot live without the Internet.",
+              "chinese": "如今，有些人没有互联网根本活不下去。",
+              "example": "These days some people cannot live without the Internet.",
+              "example_zh": "如今，有些人没有互联网根本活不下去。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I spend hours browsing through websites.",
+              "chinese": "我花了几个小时浏览网站。",
+              "example": "I spend hours browsing through websites.",
+              "example_zh": "我花了几个小时浏览网站。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 网购",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "I did some online shopping on the Internet auction.",
+                  "zh": "我在网络拍卖上买了些东西。"
+                },
+                {
+                  "who": "B",
+                  "en": "Did you check your e-mail for the order?",
+                  "zh": "你查邮件确认订单了吗？"
+                },
+                {
+                  "who": "A",
+                  "en": "Not yet. I also want to play the latest video game.",
+                  "zh": "还没。我还想玩最新款的电子游戏。"
+                },
+                {
+                  "who": "B",
+                  "en": "Let's browse websites for a deal later.",
+                  "zh": "待会咱们上网找找优惠。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "电视与天气 TV and Weather",
+          "page": 197,
+          "image": "ch6_imgs/page_197.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "drama series",
+              "phonetic": "/ˈdrɑmə ˈsɪriz/",
+              "chinese": "电视剧",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "channel",
+              "phonetic": "ˈʧænəl",
+              "chinese": "频道",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "quiz program",
+              "phonetic": "/kwɪz ˈproʊɡræm/",
+              "chinese": "益智问答节目",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "emcee",
+              "phonetic": "/ˌɛm ˈsi/",
+              "chinese": "主持人",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "panelist",
+              "phonetic": "/ˈpænəlɪst/",
+              "chinese": "座谈嘉宾",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "storm warning",
+              "phonetic": "/stɔrm ˈwɔrnɪŋ/",
+              "chinese": "风暴预警",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "typhoon",
+              "phonetic": "/taɪˈfun/",
+              "chinese": "台风",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "earthquake",
+              "phonetic": "/ˈɜrθˌkweɪk/",
+              "chinese": "地震",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "humid",
+              "phonetic": "/ˈhjumɪd/",
+              "chinese": "潮湿的",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "predict",
+              "phonetic": "/prɪˈdɪkt/",
+              "chinese": "预测",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 追剧",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "My favorite drama series is on channel 5 tonight.",
+                  "zh": "我最爱的电视剧今晚在5频道播。"
+                },
+                {
+                  "who": "B",
+                  "en": "The emcee of the quiz program is so funny.",
+                  "zh": "那个益智问答节目的主持人真逗。"
+                },
+                {
+                  "who": "A",
+                  "en": "It's hard to predict when an earthquake will occur.",
+                  "zh": "很难预测地震什么时候会发生。"
+                },
+                {
+                  "who": "B",
+                  "en": "Let's just enjoy the show and not worry.",
+                  "zh": "咱们就安心看节目，别操心了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "放松 Relaxing",
+          "page": 200,
+          "image": "ch6_imgs/page_200.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "aromatherapy",
+              "phonetic": "/əˌroʊməˈθɛrəpi/",
+              "chinese": "芳香疗法",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "practice aromatherapy",
+              "phonetic": "/ˈpræktɪs əˌroʊməˈθɛrəpi/",
+              "chinese": "做芳香疗法",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "burner",
+              "phonetic": "ˈbərnər",
+              "chinese": "香薰炉；本生灯",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "relax",
+              "phonetic": "rɪˈlæks",
+              "chinese": "放松",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "aroma oil",
+              "phonetic": "/əˈroʊmə ɔɪl/",
+              "chinese": "香薰油",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "essential oil",
+              "phonetic": "/ɪˈsɛnʃəl ɔɪl/",
+              "chinese": "精油",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "lounge chair",
+              "phonetic": "/laʊndʒ tʃɛr/",
+              "chinese": "躺椅",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "candle",
+              "phonetic": "ˈkændəl",
+              "chinese": "蜡烛",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "side table",
+              "phonetic": "/saɪd ˈteɪbəl/",
+              "chinese": "边几；床头柜",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "ottoman",
+              "phonetic": "/ˈɑtəmən/",
+              "chinese": "脚凳；软垫凳",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "put one's feet up",
+              "phonetic": "/pʊt wʌnz fit ʌp/",
+              "chinese": "跷起脚休息",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "get down",
+              "phonetic": "/ɡɛt daʊn/",
+              "chinese": "放松下来",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I get tired after a day's work.",
+              "chinese": "工作了一天，累死我了。",
+              "example": "I get tired after a day's work.",
+              "example_zh": "工作了一天，累死我了。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Let's relax a little and take it easy.",
+              "chinese": "我们放松一下吧，不着急。",
+              "example": "Let's relax a little and take it easy.",
+              "example_zh": "我们放松一下吧，不着急。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 香薰",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "I practice aromatherapy to relax after work.",
+                  "zh": "下班后我做芳香疗法来放松。"
+                },
+                {
+                  "who": "B",
+                  "en": "Nice. Light the burner and put your feet up.",
+                  "zh": "不错。点上香薰炉，跷起脚休息吧。"
+                },
+                {
+                  "who": "A",
+                  "en": "The essential oil smells great. I'll read on the lounge chair.",
+                  "zh": "精油味道很好。我要在躺椅上看看书。"
+                },
+                {
+                  "who": "B",
+                  "en": "Don't forget the candle on the side table.",
+                  "zh": "别忘了边几上的蜡烛。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "浴室 Bathroom",
+          "page": 201,
+          "image": "ch6_imgs/page_201.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "bathroom",
+              "phonetic": "ˈbæθˌrum",
+              "chinese": "浴室",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "washcloth",
+              "phonetic": "/ˈwɑʃˌklɔθ/",
+              "chinese": "洗脸巾",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "facecloth",
+              "phonetic": "/ˈfeɪsˌklɔθ/",
+              "chinese": "面巾",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "take a shower",
+              "phonetic": "/teɪk ə ˈʃaʊər/",
+              "chinese": "淋浴；洗澡",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "shower",
+              "phonetic": "ʃaʊər",
+              "chinese": "淋浴；淋浴器",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "bath towel",
+              "phonetic": "/bæθ ˈtaʊəl/",
+              "chinese": "浴巾",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "towel rack",
+              "phonetic": "/ˈtaʊəl ræk/",
+              "chinese": "毛巾架",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "showerhead",
+              "phonetic": "/ˈʃaʊərˌhɛd/",
+              "chinese": "莲蓬头；淋浴喷头",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "curtain",
+              "phonetic": "ˈkərtən",
+              "chinese": "浴帘；窗帘",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "shower cap",
+              "phonetic": "/ˈʃaʊər kæp/",
+              "chinese": "浴帽",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "soap",
+              "phonetic": "soʊp",
+              "chinese": "肥皂",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "soap dish",
+              "phonetic": "/soʊp dɪʃ/",
+              "chinese": "肥皂碟",
+              "notes": ""
+            },
+            {
+              "item_no": 13,
+              "english": "lotion",
+              "phonetic": "/ˈloʊʃən/",
+              "chinese": "润肤露",
+              "notes": ""
+            },
+            {
+              "item_no": 14,
+              "english": "washbowl",
+              "phonetic": "/ˈwɑʃˌboʊl/",
+              "chinese": "洗脸盆",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 洗澡",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Where's the shower cap? I want to take a shower.",
+                  "zh": "浴帽在哪？我想冲个澡。"
+                },
+                {
+                  "who": "B",
+                  "en": "On the towel rack, next to the bath towel.",
+                  "zh": "在毛巾架上，浴巾旁边。"
+                },
+                {
+                  "who": "A",
+                  "en": "The showerhead and soap dish are clean.",
+                  "zh": "莲蓬头和肥皂碟都很干净。"
+                },
+                {
+                  "who": "B",
+                  "en": "Use the facecloth if you like.",
+                  "zh": "需要的话用面巾。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "洗护 Shower and Hair",
+          "page": 202,
+          "image": "ch6_imgs/page_202.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "take off/remove one's makeup",
+              "phonetic": "/teɪk ɔf rɪˈmuv wʌnz ˈmeɪkʌp/",
+              "chinese": "卸妆",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "lather",
+              "phonetic": "/ˈlæðər/",
+              "chinese": "起泡；涂肥皂",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "under the shower",
+              "phonetic": "/ˈʌndər ðə ˈʃaʊər/",
+              "chinese": "在淋浴下",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "under running water",
+              "phonetic": "/ˈʌndər ˈrʌnɪŋ ˈwɔtər/",
+              "chinese": "在流动水下",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "pour water over...",
+              "phonetic": "/pʊr ˈwɔtər ˈoʊvər/",
+              "chinese": "把水浇在…上",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "put conditioner on one's hair",
+              "phonetic": "/pʊt kənˈdɪʃənər ɑn wʌnz hɛr/",
+              "chinese": "抹护发素",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "shampoo",
+              "phonetic": "/ʃæmˈpu/",
+              "chinese": "洗发水；洗头",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I take off my makeup as soon as I come home.",
+              "chinese": "我一到家就把妆卸了。",
+              "example": "I take off my makeup as soon as I come home.",
+              "example_zh": "我一到家就把妆卸了。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Don't rub your skin too hard.",
+              "chinese": "别太用力擦你的皮肤。",
+              "example": "Don't rub your skin too hard.",
+              "example_zh": "别太用力擦你的皮肤。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 洗头",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "I'll shampoo my hair under the shower.",
+                  "zh": "我要在淋浴下用洗发水洗头发。"
+                },
+                {
+                  "who": "B",
+                  "en": "Put conditioner on your hair after lathering.",
+                  "zh": "起泡后抹点护发素。"
+                },
+                {
+                  "who": "A",
+                  "en": "I'll rinse under running water.",
+                  "zh": "我会在流动水下冲干净。"
+                },
+                {
+                  "who": "B",
+                  "en": "Don't rub your skin too hard.",
+                  "zh": "别太用力擦皮肤。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "沐浴 Bath",
+          "page": 203,
+          "image": "ch6_imgs/page_203.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "soak in the bathtub",
+              "phonetic": "/soʊk ɪn ðə ˈbæθˌtʌb/",
+              "chinese": "泡澡；泡在浴缸里",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "read a book in the bathtub",
+              "phonetic": "/rid ə bʊk ɪn ðə ˈbæθˌtʌb/",
+              "chinese": "在浴缸里看书",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "get out of the bathtub",
+              "phonetic": "/ɡɛt aʊt əv ðə ˈbæθˌtʌb/",
+              "chinese": "出浴缸",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "dry off with a towel",
+              "phonetic": "/draɪ ɔf wɪð ə ˈtaʊəl/",
+              "chinese": "用毛巾擦干",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "weigh oneself on the scale",
+              "phonetic": "/weɪ wʌnˈsɛlf ɑn ðə skeɪl/",
+              "chinese": "在体重秤上称重",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "paint one's nails (red)",
+              "phonetic": "/peɪnt wʌnz neɪlz/",
+              "chinese": "涂指甲油（红色）",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "remove the polish from one's nails",
+              "phonetic": "/rɪˈmuv ðə ˈpɑlɪʃ frəm wʌnz neɪlz/",
+              "chinese": "卸指甲油",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I take a bath every day.",
+              "chinese": "我每天都洗澡。",
+              "example": "I take a bath every day.",
+              "example_zh": "我每天都洗澡。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I pulled the bath plug and let the water drain out.",
+              "chinese": "我拔出浴缸下水塞，让里面的水流干。",
+              "example": "I pulled the bath plug and let the water drain out.",
+              "example_zh": "我拔出浴缸下水塞，让里面的水流干。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 3 泡澡",
+              "source": "原书OCR校正",
+              "lines": [
+                {
+                  "who": "Mike",
+                  "en": "I'm so exhausted... totally worn out!",
+                  "zh": "我太累了……精疲力竭了！"
+                },
+                {
+                  "who": "Kate",
+                  "en": "Come here, sit back and relax a little.",
+                  "zh": "过来，坐在这儿放松一下。"
+                },
+                {
+                  "who": "Mike",
+                  "en": "Thanks, but I'd like to take a hot bath and freshen up.",
+                  "zh": "谢谢，但我想洗个热水澡，精神精神。"
+                },
+                {
+                  "who": "Kate",
+                  "en": "Go ahead. The bath is ready.",
+                  "zh": "去吧。洗澡水都给你准备好了。"
+                },
+                {
+                  "who": "Mike",
+                  "en": "Where are my pajamas?",
+                  "zh": "我的睡衣在哪儿？"
+                },
+                {
+                  "who": "Kate",
+                  "en": "They are in the basket, next to the towel rack.",
+                  "zh": "在篮子里，靠近毛巾架的地方。"
+                },
+                {
+                  "who": "Mike",
+                  "en": "Ah, there they are. Thanks. (with a yawn)",
+                  "zh": "哦，找到了。谢谢。（打着哈欠）"
+                },
+                {
+                  "who": "Kate",
+                  "en": "Hey, don't fall asleep while you are soaking in the bathtub!",
+                  "zh": "嘿，可别在泡澡的时候睡着了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "就寝 Going to Bed",
+          "page": 204,
+          "image": "ch6_imgs/page_204.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "turn off the light",
+              "phonetic": "/tɜrn ɔf ðə laɪt/",
+              "chinese": "关灯",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "set the alarm clock",
+              "phonetic": "/sɛt ðə əˈlɑrm klɑk/",
+              "chinese": "设定闹钟",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "put on one's pajamas",
+              "phonetic": "/pʊt ɑn wʌnz pəˈdʒæməz/",
+              "chinese": "穿上睡衣",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "bedside",
+              "phonetic": "ˈbɛdˌsaɪd",
+              "chinese": "床边",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "nightwear",
+              "phonetic": "/ˈnaɪtˌwɛr/",
+              "chinese": "睡衣；夜间穿着",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "comforter",
+              "phonetic": "/ˈkʌmfərtər/",
+              "chinese": "厚被子；棉被",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "blanket",
+              "phonetic": "ˈblæŋkɪt",
+              "chinese": "毯子",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "nightclothes",
+              "phonetic": "/ˈnaɪtˌkloʊðz/",
+              "chinese": "睡衣",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "pajamas",
+              "phonetic": "/pəˈdʒæməz/",
+              "chinese": "睡衣",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "spread out the comforter",
+              "phonetic": "/sprɛd aʊt ðə ˈkʌmfərtər/",
+              "chinese": "铺开被子",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "nightgown",
+              "phonetic": "/ˈnaɪtˌɡaʊn/",
+              "chinese": "女式睡袍",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "slipper(s)",
+              "phonetic": "/ˈslɪpərz/",
+              "chinese": "拖鞋",
+              "notes": ""
+            },
+            {
+              "item_no": 13,
+              "english": "negligee",
+              "phonetic": "/ˈnɛɡlɪˌʒeɪ/",
+              "chinese": "女式睡衣；晨衣",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "It's time to go to bed.",
+              "chinese": "该上床睡觉了。",
+              "example": "It's time to go to bed.",
+              "example_zh": "该上床睡觉了。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I fell asleep the moment I put my head on the pillow.",
+              "chinese": "我脑袋一沾枕头就睡着了。",
+              "example": "I fell asleep the moment I put my head on the pillow.",
+              "example_zh": "我脑袋一沾枕头就睡着了。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 睡前",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Time to go to bed. Let me set the alarm clock.",
+                  "zh": "该睡觉了。让我定个闹钟。"
+                },
+                {
+                  "who": "B",
+                  "en": "Put on your pajamas and spread out the comforter.",
+                  "zh": "穿上睡衣，把被子铺开。"
+                },
+                {
+                  "who": "A",
+                  "en": "I'll wear my nightgown and slippers.",
+                  "zh": "我穿睡袍和拖鞋。"
+                },
+                {
+                  "who": "B",
+                  "en": "Turn off the light, then. Good night.",
+                  "zh": "那关灯吧。晚安。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "床上 In Bed",
+          "page": 205,
+          "image": "ch6_imgs/page_205.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "roll over in one's bed",
+              "phonetic": "/roʊl ˈoʊvər ɪn wʌnz bɛd/",
+              "chinese": "在床上翻身",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "be wide awake",
+              "phonetic": "/bi waɪd əˈweɪk/",
+              "chinese": "完全清醒",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "nightcap",
+              "phonetic": "/ˈnaɪtˌkæp/",
+              "chinese": "睡前酒",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "read a fairy tale for kids",
+              "phonetic": "/rid ə ˈfɛri teɪl fɔr kɪdz/",
+              "chinese": "给孩子读童话",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "have a good dream",
+              "phonetic": "/hæv ə ɡʊd drim/",
+              "chinese": "做个好梦",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I was wide awake last night and rolled over many times in bed.",
+              "chinese": "昨晚上我非常清醒，在床上翻来覆去睡不着。",
+              "example": "I was wide awake last night and rolled over many times in bed.",
+              "example_zh": "昨晚上我非常清醒，在床上翻来覆去睡不着。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "You can't tell whether you snore while you are sleeping.",
+              "chinese": "你睡着时根本不知道自己是否在打呼噜。",
+              "example": "You can't tell whether you snore while you are sleeping.",
+              "example_zh": "你睡着时根本不知道自己是否在打呼噜。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 安睡",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "I was wide awake and rolled over many times last night.",
+                  "zh": "昨晚我完全清醒，在床上翻来覆去。"
+                },
+                {
+                  "who": "B",
+                  "en": "You should read a fairy tale for the kids, then sleep.",
+                  "zh": "你该给孩子读个童话，然后睡觉。"
+                },
+                {
+                  "who": "A",
+                  "en": "I hope to have a good dream tonight.",
+                  "zh": "希望今晚做个好梦。"
+                },
+                {
+                  "who": "B",
+                  "en": "No nightcap, though — it ruins sleep.",
+                  "zh": "不过别喝睡前酒，那会影响睡眠。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "睡前洗漱 Bedtime Washup",
+          "page": 207,
+          "image": "ch6_imgs/page_207.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "wash one's hair with shampoo",
+              "phonetic": "/wɑʃ wʌnz hɛr wɪð ʃæmˈpu/",
+              "chinese": "用洗发水洗头发",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "dry oneself off with a towel",
+              "phonetic": "/draɪ wʌnˈsɛlf ɔf wɪð ə ˈtaʊəl/",
+              "chinese": "用毛巾擦干",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "clip one's nails",
+              "phonetic": "/klɪp wʌnz neɪlz/",
+              "chinese": "剪指甲",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "weigh oneself on the scale",
+              "phonetic": "/weɪ wʌnˈsɛlf ɑn ðə skeɪl/",
+              "chinese": "在体重秤上称重",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "set the alarm clock",
+              "phonetic": "/sɛt ðə əˈlɑrm klɑk/",
+              "chinese": "设定闹钟",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": []
+        }
+      ]
     }
   ]
 }
