@@ -9,9 +9,11 @@
 !ch1_imgs/
 !ch2_imgs/
 !ch3_imgs/
+!ch4_imgs/
 !ch1_imgs/**
 !ch2_imgs/**
 !ch3_imgs/**
+!ch4_imgs/**
 
 # Keep this ignore file
 !.gitignore
