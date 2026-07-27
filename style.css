@@ -190,10 +190,12 @@ main { max-width: 1120px; margin: 0 auto; padding: 18px 16px 60px; }
   .atlas-item .ph { font-size: 11px; }
   .atlas-item .cn { flex-basis: 100%; margin-left: 0; font-size: 12px; }
 
-  /* 闪卡：2 列 */
-  .cards { grid-template-columns: 1fr 1fr; gap: 10px; }
-  .flip { height: 132px; }
-  .flip-front .en { font-size: 17px; }
+  /* 闪卡：手机单列全宽，更易读易点 */
+  .cards { grid-template-columns: 1fr; gap: 12px; }
+  .flip { height: 150px; }
+  .flip-front .en { font-size: 21px; }
+  .flip-back .ph { font-size: 15px; margin: 6px 0; }
+  .flip-back .cn { font-size: 17px; }
 
   /* 短语 / 对话 */
   .lower { gap: 16px; margin-top: 18px; }
