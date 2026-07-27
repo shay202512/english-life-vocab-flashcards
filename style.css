@@ -23,12 +23,18 @@ body {
 }
 
 header {
-  display: flex; align-items: center; justify-content: space-between;
-  padding: 14px 20px; background: var(--panel); border-bottom: 1px solid var(--line);
+  display: flex; align-items: center; flex-wrap: wrap; gap: 10px;
+  padding: 12px 20px; background: var(--panel); border-bottom: 1px solid var(--line);
   position: sticky; top: 0; z-index: 20;
 }
-header h1 { font-size: 18px; margin: 0; }
-.mode-switch { display: flex; gap: 8px; }
+header h1 { flex: 1 1 auto; min-width: 0; font-size: 18px; margin: 0; }
+#chapterNav { display: flex; flex: 1 1 auto; flex-wrap: wrap; justify-content: center; gap: 6px; }
+.mode-switch { display: flex; gap: 8px; flex: 0 0 auto; }
+.chapter-tab {
+  border: 1px solid var(--line); background: #fff; color: var(--ink);
+  padding: 6px 12px; border-radius: 16px; cursor: pointer; font-size: 13px; white-space: nowrap;
+}
+.chapter-tab.active { background: var(--accent); color: #fff; border-color: var(--accent); }
 .mode-btn {
   border: 1px solid var(--line); background: #fff; color: var(--muted);
   padding: 7px 14px; border-radius: 20px; cursor: pointer; font-size: 14px;
@@ -135,10 +141,80 @@ main { max-width: 1120px; margin: 0 auto; padding: 18px 16px 60px; }
 .modal-card .notes { font-size: 13px; color: var(--muted); margin-top: 8px; }
 .modal-card .spk { margin-top: 12px; border: 1px solid var(--accent); background: var(--accent-soft); color: var(--accent); border-radius: 20px; padding: 6px 16px; cursor: pointer; }
 
-/* 响应式：窄屏堆叠 */
+/* ---------- 响应式 ---------- */
+
+/* 平板 / 小屏：左右堆叠（图在上、词在下） */
 @media (max-width: 900px) {
   .stage { flex-direction: column; }
   .stage-left { position: static; flex: none; max-width: 100%; }
-  .stage-left img { max-height: 440px; margin: 0 auto; }
+  .stage-left img { max-height: 420px; margin: 0 auto; }
   .lower { flex-direction: column; }
+}
+
+/* 手机：顶部重排、导航横滑、紧凑网格 */
+@media (max-width: 640px) {
+  body { -webkit-text-size-adjust: 100%; }
+  * { -webkit-tap-highlight-color: transparent; }
+
+  /* 顶部：标题+模式同行，章节导航单独一行可横滑 */
+  header { gap: 8px; padding: 10px 12px; row-gap: 10px; }
+  header h1 { font-size: 16px; order: 1; }
+  .mode-switch { order: 2; }
+  .mode-btn { padding: 8px 13px; font-size: 13px; }
+
+  #chapterNav {
+    order: 3; flex: 1 1 100%;
+    flex-wrap: nowrap; overflow-x: auto; justify-content: flex-start; gap: 6px;
+    margin: 0 -12px; padding: 2px 12px 6px; -webkit-overflow-scrolling: touch; scrollbar-width: none;
+  }
+  #chapterNav::-webkit-scrollbar { display: none; }
+  .chapter-tab { font-size: 12px; padding: 6px 11px; }
+
+  /* 场景导航：单行横滑，不换行占屏 */
+  #sceneNav {
+    flex-wrap: nowrap; overflow-x: auto; gap: 6px; padding: 10px 12px;
+    -webkit-overflow-scrolling: touch; scrollbar-width: none;
+  }
+  #sceneNav::-webkit-scrollbar { display: none; }
+  .scene-tab { flex: 0 0 auto; white-space: nowrap; font-size: 12px; padding: 6px 11px; }
+
+  main { padding: 12px 12px 64px; }
+  .stage { gap: 12px; }
+  .stage-left img { max-height: 300px; object-fit: contain; }
+
+  /* 图鉴：2 列，中文整行显示避免错位 */
+  .atlas-list { grid-template-columns: 1fr 1fr; gap: 8px; }
+  .atlas-item { flex-wrap: wrap; align-items: center; padding: 8px 10px; }
+  .atlas-item .no { font-size: 11px; }
+  .atlas-item .en { font-size: 14px; }
+  .atlas-item .ph { font-size: 11px; }
+  .atlas-item .cn { flex-basis: 100%; margin-left: 0; font-size: 12px; }
+
+  /* 闪卡：2 列 */
+  .cards { grid-template-columns: 1fr 1fr; gap: 10px; }
+  .flip { height: 132px; }
+  .flip-front .en { font-size: 17px; }
+
+  /* 短语 / 对话 */
+  .lower { gap: 16px; margin-top: 18px; }
+  .block h2 { font-size: 15px; }
+  .phrase-list li { padding: 10px 12px; gap: 8px; }
+  .phrase-list .en { font-size: 14px; }
+  .speak-btn { width: 36px; height: 36px; font-size: 15px; flex: 0 0 auto; }
+
+  /* 对话气泡：收紧头像与按钮，避免溢出 */
+  .dlg-line { gap: 6px; }
+  .dlg-line .who { min-width: 26px; font-size: 11px; padding-top: 7px; }
+  .bubble-wrap { max-width: 82%; }
+  .bubble { font-size: 14px; padding: 7px 11px; }
+  .dlg-line .zh { font-size: 11px; }
+  .dlg-line .spk { flex: 0 0 auto; font-size: 13px; padding-top: 6px; }
+}
+
+/* 小屏手机：图鉴单列，进一步收紧 */
+@media (max-width: 400px) {
+  .atlas-list { grid-template-columns: 1fr; }
+  .atlas-item .cn { font-size: 13px; }
+  .stage-left img { max-height: 260px; }
+  .mode-btn { padding: 8px 11px; font-size: 12px; }
 }
