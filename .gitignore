@@ -1,0 +1,17 @@
+# Ignore everything by default — this repo publishes ONLY the web app
+*
+
+# Keep the web app (static site)
+!index.html
+!style.css
+!app.js
+!data_all.json
+!ch1_imgs/
+!ch2_imgs/
+!ch3_imgs/
+!ch1_imgs/**
+!ch2_imgs/**
+!ch3_imgs/**
+
+# Keep this ignore file
+!.gitignore
