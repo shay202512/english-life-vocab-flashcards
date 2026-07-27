@@ -17,6 +17,7 @@ function selectChapter(ci) {
     b.classList.toggle("active", i === ci));
   renderNav();
   renderScene();
+  if (window.innerWidth <= 640) window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
 function curChapter() { return STATE.data.chapters[STATE.chapterIdx]; }
@@ -44,7 +45,7 @@ function renderNav() {
     // 只显示中文名部分，去掉英文副标题更紧凑
     const label = (s.scene || "").split(" ")[0];
     b.textContent = label;
-    b.onclick = () => { STATE.sceneIdx = i; renderNav(); renderScene(); };
+    b.onclick = () => { STATE.sceneIdx = i; renderNav(); renderScene(); if (window.innerWidth <= 640) window.scrollTo({ top: 0, behavior: "smooth" }); };
     nav.appendChild(b);
   });
 }
