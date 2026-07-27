@@ -12959,6 +12959,2259 @@
           ]
         }
       ]
+    },
+    {
+      "chapter": "Chapter 5 In the Street 在街上",
+      "scenes": [
+        {
+          "scene": "超市·商店 Stores",
+          "page": 148,
+          "image": "ch5_imgs/page_148.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "supermarket",
+              "phonetic": "/ˈsupərˌmɑrkɪt/",
+              "chinese": "超市",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "department store",
+              "phonetic": "/dɪˈpɑrtmənt stɔr/",
+              "chinese": "百货公司",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "emporium",
+              "phonetic": "/ɛmˈpɔriəm/",
+              "chinese": "商场；百货店",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "shopping mall",
+              "phonetic": "/ˈʃɑpɪŋ mɔl/",
+              "chinese": "购物中心；商场",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "suggested retail price",
+              "phonetic": "səˈʤɛstɪd ˈriˌteɪl praɪs",
+              "chinese": "建议零售价",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "discount",
+              "phonetic": "/ˈdɪskaʊnt/",
+              "chinese": "折扣",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "clerk",
+              "phonetic": "klərk",
+              "chinese": "店员",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "coupon",
+              "phonetic": "/ˈkupɑn/",
+              "chinese": "优惠券",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "a good buy",
+              "phonetic": "ə gʊd baɪ",
+              "chinese": "买得划算；物美价廉",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "shopper",
+              "phonetic": "ˈʃɑpər",
+              "chinese": "购物者；顾客",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "Buy one, get one free!",
+              "phonetic": "baɪ wən, gɪt wən fri!",
+              "chinese": "买一送一",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "one per person, please",
+              "phonetic": "wən pər ˈpərsən, pliz",
+              "chinese": "每人限购一个",
+              "notes": ""
+            },
+            {
+              "item_no": 13,
+              "english": "I'm looking for...",
+              "phonetic": "əm ˈlʊkɪŋ fər...",
+              "chinese": "我在找…",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "May I help you?",
+              "chinese": "我能帮您吗？",
+              "example": "May I help you?",
+              "example_zh": "我能帮您吗？",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I bought a lot of canned food at the grocery store.",
+              "chinese": "我在杂货店买了很多罐头食品。",
+              "example": "I bought a lot of canned food at the grocery store.",
+              "example_zh": "我在杂货店买了很多罐头食品。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "This skirt is a little long, so I need to alter the length.",
+              "chinese": "这条裙子有点长，我得改一下长度。",
+              "example": "This skirt is a little long, so I need to alter the length.",
+              "example_zh": "这条裙子有点长，我得改一下长度。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I bought this jacket at a discount.",
+              "chinese": "这件夹克我是打折买的。",
+              "example": "I bought this jacket at a discount.",
+              "example_zh": "这件夹克我是打折买的。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 1 买晚餐食材",
+              "source": "原书OCR校正",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "How about beef steak and baked potatoes for tonight's dinner?",
+                  "zh": "今晚晚餐吃牛排和烤土豆怎么样？"
+                },
+                {
+                  "who": "B",
+                  "en": "Hmm... I want something lighter. Hey, these scallops look fresh and nice!",
+                  "zh": "嗯……我想吃点清淡的。嘿，这些扇贝看起来又新鲜又好！"
+                },
+                {
+                  "who": "A",
+                  "en": "OK, get them. We need some vegetables, too.",
+                  "zh": "好，买吧。我们也还需要点蔬菜。"
+                },
+                {
+                  "who": "B",
+                  "en": "A bag of string beans and a bunch of asparagus will make good side dishes.",
+                  "zh": "一袋四季豆和一捆芦笋可以做不错的配菜。"
+                },
+                {
+                  "who": "A",
+                  "en": "Let's have some peaches for dessert.",
+                  "zh": "甜点我们吃点桃子吧。"
+                },
+                {
+                  "who": "B",
+                  "en": "Sounds good.",
+                  "zh": "听起来不错。"
+                },
+                {
+                  "who": "A",
+                  "en": "Oh, you get a discount if you have a coupon. Did you bring it?",
+                  "zh": "哦，你有优惠券的话能打折。你带了吗？"
+                },
+                {
+                  "who": "B",
+                  "en": "Of course! I always carry coupons with me.",
+                  "zh": "当然！我总是随身带着优惠券。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "购物 Shopping",
+          "page": 149,
+          "image": "ch5_imgs/page_149.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "free shipping and handling",
+              "phonetic": "fri ˈʃɪpɪŋ ənd ˈhændəlɪŋ",
+              "chinese": "免运费和手续费",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "twenty-four / seven",
+              "phonetic": "tˈwɛntiˌfɔr  ˈsɛvən",
+              "chinese": "全天候；24小时",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "pay with a credit card",
+              "phonetic": "peɪ wɪθ ə ˈkrɛdɪt kɑrd",
+              "chinese": "用信用卡付款",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "change/switch to another",
+              "phonetic": "change/switch* tɪ əˈnəðər",
+              "chinese": "换到另一个",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "Paper or plastic?",
+              "phonetic": "ˈpeɪpər ər ˈplæstɪk?",
+              "chinese": "要纸袋还是塑料袋？",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "shopping basket",
+              "phonetic": "ˈʃɑpɪŋ ˈbæskət",
+              "chinese": "购物篮",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "cart",
+              "phonetic": "kɑrt",
+              "chinese": "购物车",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 结账",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Paper or plastic?",
+                  "zh": "要纸袋还是塑料袋？"
+                },
+                {
+                  "who": "B",
+                  "en": "Plastic, please. I'll pay with a credit card.",
+                  "zh": "塑料袋，谢谢。我用信用卡付。"
+                },
+                {
+                  "who": "A",
+                  "en": "That'll be free shipping and handling.",
+                  "zh": "运费和手续费都免。"
+                },
+                {
+                  "who": "B",
+                  "en": "Great. I'll take the cart to the car.",
+                  "zh": "太好了，我推购物车去车上。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "鱼·肉·乳制品 Fish, Meat and Dairy Products",
+          "page": 150,
+          "image": "ch5_imgs/page_150.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "fish",
+              "phonetic": "fɪʃ",
+              "chinese": "鱼",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "meat",
+              "phonetic": "mit",
+              "chinese": "肉",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "turbot",
+              "phonetic": "/ˈtɜrbət/",
+              "chinese": "大菱鲆；比目鱼",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "butcher",
+              "phonetic": "/ˈbʊtʃər/",
+              "chinese": "肉贩；肉铺",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "chicken",
+              "phonetic": "ˈʧɪkən",
+              "chinese": "鸡肉",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "a chunk of beef",
+              "phonetic": "ə ʧəŋk əv bif",
+              "chinese": "一块牛肉",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "pork",
+              "phonetic": "pɔrk",
+              "chinese": "猪肉",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "dairy product",
+              "phonetic": "ˈdɛri ˈprɑdəkt",
+              "chinese": "乳制品",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "Which do you eat more often, fish or meat?",
+              "chinese": "你更常吃鱼还是肉？",
+              "example": "Which do you eat more often, fish or meat?",
+              "example_zh": "你更常吃鱼还是肉？",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Whenever I go to a sushi bar, I always order tuna and squid.",
+              "chinese": "每次去寿司店，我总点金枪鱼和鱿鱼。",
+              "example": "Whenever I go to a sushi bar, I always order tuna and squid.",
+              "example_zh": "每次去寿司店，我总点金枪鱼和鱿鱼。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "scene": "乳制品·蔬果 Dairy, Vegetables and Fruits",
+          "page": 151,
+          "image": "ch5_imgs/page_151.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "dairy product",
+              "phonetic": "ˈdɛri ˈprɑdəkt",
+              "chinese": "乳制品",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "cheese",
+              "phonetic": "ʧiz",
+              "chinese": "奶酪",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "egg",
+              "phonetic": "ɛg",
+              "chinese": "蛋",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "margarine",
+              "phonetic": "/ˈmɑrdʒərɪn/",
+              "chinese": "人造黄油",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "low-fat milk",
+              "phonetic": "low-fat* mɪlk",
+              "chinese": "低脂牛奶",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "milk",
+              "phonetic": "mɪlk",
+              "chinese": "牛奶",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "butter",
+              "phonetic": "ˈbətər",
+              "chinese": "黄油",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "vegetables",
+              "phonetic": "ˈvɛʤtəbəlz",
+              "chinese": "蔬菜",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "string bean",
+              "phonetic": "strɪŋ bin",
+              "chinese": "四季豆；刀豆",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "cauliflower",
+              "phonetic": "/ˈkɔlɪˌflaʊər/",
+              "chinese": "花椰菜",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "onion",
+              "phonetic": "ˈənjən",
+              "chinese": "洋葱",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "soybean",
+              "phonetic": "ˈsɔɪˌbin",
+              "chinese": "大豆",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 买蔬果",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "We're out of milk and butter.",
+                  "zh": "家里牛奶和黄油没了。"
+                },
+                {
+                  "who": "B",
+                  "en": "Get low-fat milk; dad is on a diet.",
+                  "zh": "买低脂牛奶，爸爸在减肥。"
+                },
+                {
+                  "who": "A",
+                  "en": "And some cheese and eggs?",
+                  "zh": "再买点奶酪和蛋？"
+                },
+                {
+                  "who": "B",
+                  "en": "Yes, plus onions and soybeans.",
+                  "zh": "好，再加洋葱和大豆。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "蔬菜与水果 Vegetables and Fruits",
+          "page": 152,
+          "image": "ch5_imgs/page_152.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "pumpkin",
+              "phonetic": "ˈpəmpkɪn",
+              "chinese": "南瓜",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "cucumber",
+              "phonetic": "/ˈkjukəmbər/",
+              "chinese": "黄瓜",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "radish",
+              "phonetic": "/ˈrædɪʃ/",
+              "chinese": "萝卜",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "ginger",
+              "phonetic": "/ˈdʒɪndʒər/",
+              "chinese": "姜",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "parsley",
+              "phonetic": "/ˈpɑrsli/",
+              "chinese": "欧芹；荷兰芹",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "olive",
+              "phonetic": "/ˈɑlɪv/",
+              "chinese": "橄榄",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "strawberry",
+              "phonetic": "/ˈstrɔˌbɛri/",
+              "chinese": "草莓",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "banana",
+              "phonetic": "bəˈnænə",
+              "chinese": "香蕉",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "persimmon",
+              "phonetic": "/pərˈsɪmən/",
+              "chinese": "柿子",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 水果摊",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "These strawberries look fresh.",
+                  "zh": "这些草莓看起来很新鲜。"
+                },
+                {
+                  "who": "B",
+                  "en": "Grab a bunch of bananas too.",
+                  "zh": "再拿一把香蕉。"
+                },
+                {
+                  "who": "A",
+                  "en": "How about a watermelon? It's summer.",
+                  "zh": "买个西瓜？夏天嘛。"
+                },
+                {
+                  "who": "B",
+                  "en": "Too heavy. Just ginger and olives.",
+                  "zh": "太重了。就姜和橄榄吧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "各类食品 Various Items",
+          "page": 153,
+          "image": "ch5_imgs/page_153.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "watermelon",
+              "phonetic": "/ˈwɔtərˌmɛlən/",
+              "chinese": "西瓜",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "pineapple",
+              "phonetic": "/ˈpaɪnˌæpəl/",
+              "chinese": "菠萝",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "peanut",
+              "phonetic": "ˈpiˌnət",
+              "chinese": "花生",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "lemon",
+              "phonetic": "ˈlɛmən",
+              "chinese": "柠檬",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "cashew nut",
+              "phonetic": "ˈkæˌʃu nət",
+              "chinese": "腰果",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "chestnut",
+              "phonetic": "/ˈtʃɛsˌnət/",
+              "chinese": "栗子",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "almond",
+              "phonetic": "/ˈɑmənd/",
+              "chinese": "杏仁",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "walnut",
+              "phonetic": "/ˈwɔlnət/",
+              "chinese": "核桃",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "bread",
+              "phonetic": "brɛd",
+              "chinese": "面包",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "spaghetti",
+              "phonetic": "/spəˈɡɛti/",
+              "chinese": "意大利面",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "canned food/beverage",
+              "phonetic": "kænd food/beverage*",
+              "chinese": "罐头食品/饮料",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "macaroni",
+              "phonetic": "/ˌmækəˈroʊni/",
+              "chinese": "通心粉",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I'm looking for canned beverages.",
+              "chinese": "我在找罐装饮料。",
+              "example": "I'm looking for canned beverages.",
+              "example_zh": "我在找罐装饮料。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Do they contain chemicals?",
+              "chinese": "它们含化学成分吗？",
+              "example": "Do they contain chemicals?",
+              "example_zh": "它们含化学成分吗？",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I often browse weeklies at a nearby convenience store.",
+              "chinese": "我常在附近的便利店翻周刊。",
+              "example": "I often browse weeklies at a nearby convenience store.",
+              "example_zh": "我常在附近的便利店翻周刊。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "scene": "购物用语 Shopping Actions",
+          "page": 155,
+          "image": "ch5_imgs/page_155.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "check the price tag",
+              "phonetic": "ʧɛk ðə praɪs tæg",
+              "chinese": "看价签",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "try it on",
+              "phonetic": "traɪ ɪt ɔn",
+              "chinese": "试穿",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "fitting room",
+              "phonetic": "ˈfɪtɪŋ rum",
+              "chinese": "试衣间",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "aisle",
+              "phonetic": "aɪəl",
+              "chinese": "通道；货架间的走道",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "cash register",
+              "phonetic": "kæʃ ˈrɛʤɪstər",
+              "chinese": "收银台",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "switch to another line",
+              "phonetic": "swɪʧ tɪ əˈnəðər laɪn",
+              "chinese": "换到另一条队",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 试衣",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Where is the fitting room?",
+                  "zh": "试衣间在哪？"
+                },
+                {
+                  "who": "B",
+                  "en": "Check the price tag before you try it on.",
+                  "zh": "试穿前先看看价签。"
+                },
+                {
+                  "who": "A",
+                  "en": "This one is a good buy.",
+                  "zh": "这件很划算。"
+                },
+                {
+                  "who": "B",
+                  "en": "Then switch to another line to pay.",
+                  "zh": "那换条队去结账。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "银行 Bank",
+          "page": 158,
+          "image": "ch5_imgs/page_158.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "safe-deposit (box)",
+              "phonetic": "safe-deposit* (bɑks)",
+              "chinese": "保险箱；保管箱",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "operate",
+              "phonetic": "ˈɔpərˌeɪt",
+              "chinese": "操作",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "bank clerk",
+              "phonetic": "bæŋk klərk",
+              "chinese": "银行职员",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "push/press the button",
+              "phonetic": "push/press* ðə ˈbətən",
+              "chinese": "按按钮",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "ATM / automated teller machine",
+              "phonetic": "ˈeɪˌtiˈɛm  ˈɔtəˌmeɪtɪd ˈtɛlər məˈʃin",
+              "chinese": "自动取款机",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "PIN",
+              "phonetic": "pɪn",
+              "chinese": "密码；个人识别码",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "bankbook",
+              "phonetic": "/ˈbæŋkˌbʊk/",
+              "chinese": "存折",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "identification",
+              "phonetic": "/aɪˌdɛntɪfɪˈkeɪʃən/",
+              "chinese": "身份证明",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "personal seal",
+              "phonetic": "ˈpərsɪnəl sil",
+              "chinese": "个人印章",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "It's not difficult to operate an ATM.",
+              "chinese": "操作自动取款机不难。",
+              "example": "It's not difficult to operate an ATM.",
+              "example_zh": "操作自动取款机不难。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Follow the instructions and press the button.",
+              "chinese": "照着提示按按钮。",
+              "example": "Follow the instructions and press the button.",
+              "example_zh": "照着提示按按钮。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I need a personal seal to open a bank account.",
+              "chinese": "开银行账户需要个人印章。",
+              "example": "I need a personal seal to open a bank account.",
+              "example_zh": "开银行账户需要个人印章。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "scene": "储蓄·股票·保险 Savings, Stock and Insurance",
+          "page": 159,
+          "image": "ch5_imgs/page_159.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "paper money",
+              "phonetic": "ˈpeɪpər ˈməni",
+              "chinese": "纸币",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "penny",
+              "phonetic": "ˈpɛni",
+              "chinese": "一美分硬币",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "dime",
+              "phonetic": "daɪm",
+              "chinese": "十美分硬币",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "borrow",
+              "phonetic": "ˈbɑˌroʊ",
+              "chinese": "借；借入",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "nickel",
+              "phonetic": "ˈnɪkəl",
+              "chinese": "五美分硬币",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "quarter",
+              "phonetic": "kˈwɔrtər",
+              "chinese": "二十五美分硬币",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "life/health insurance",
+              "phonetic": "life/health* ˌɪnˈʃʊrəns",
+              "chinese": "人寿/健康保险",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "take out an insurance policy",
+              "phonetic": "teɪk aʊt ən ˌɪnˈʃʊrəns ˈpɑləsi",
+              "chinese": "投保；买保险",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "own / hold shares of the corporation stock",
+              "phonetic": "oʊn  hoʊld ʃɛrz əv ðə ˌkɔrpərˈeɪʃən stɑk",
+              "chinese": "持有公司股票",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "receive a pension",
+              "phonetic": "rɪˈsiv ə ˈpɛnʃən",
+              "chinese": "领取养老金",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I deposited all my savings into my bank account.",
+              "chinese": "我把所有积蓄都存进了银行账户。",
+              "example": "I deposited all my savings into my bank account.",
+              "example_zh": "我把所有积蓄都存进了银行账户。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 理财",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "I want to take out a life insurance policy.",
+                  "zh": "我想买一份人寿保险。"
+                },
+                {
+                  "who": "B",
+                  "en": "You can also own shares of the corporation stock.",
+                  "zh": "你也可以持有这家公司的股票。"
+                },
+                {
+                  "who": "A",
+                  "en": "Will I receive a pension later?",
+                  "zh": "以后能领养老金吗？"
+                },
+                {
+                  "who": "B",
+                  "en": "Yes, after you retire.",
+                  "zh": "对，退休之后。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "邮寄 Mail",
+          "page": 160,
+          "image": "ch5_imgs/page_160.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "postal matter",
+              "phonetic": "ˈpoʊstəl ˈmætər",
+              "chinese": "邮件",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "postal clerk",
+              "phonetic": "ˈpoʊstəl klərk",
+              "chinese": "邮局职员",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "surface mail",
+              "phonetic": "ˈsərfəs meɪl",
+              "chinese": "平邮；陆/海邮",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "send by express mail",
+              "phonetic": "sɛnd baɪ ɪkˈsprɛs meɪl",
+              "chinese": "寄快递；特快专递",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "(home) delivery service",
+              "phonetic": "(hoʊm) dɪˈlɪvəri ˈsərvɪs",
+              "chinese": "上门投递服务",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "write to...",
+              "phonetic": "raɪt tɪ...",
+              "chinese": "写信给…",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "pack",
+              "phonetic": "pæk",
+              "chinese": "打包；装箱",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I will send the letter by express mail.",
+              "chinese": "这封信我会用快递寄。",
+              "example": "I will send the letter by express mail.",
+              "example_zh": "这封信我会用快递寄。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 寄包裹",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "I need to send this by express mail.",
+                  "zh": "这个我得寄快递。"
+                },
+                {
+                  "who": "B",
+                  "en": "The postal clerk will pack it for you.",
+                  "zh": "邮局职员会帮你打包。"
+                },
+                {
+                  "who": "A",
+                  "en": "Surface mail is cheaper, though.",
+                  "zh": "不过平邮更便宜。"
+                },
+                {
+                  "who": "B",
+                  "en": "Write the address clearly, please.",
+                  "zh": "请把地址写清楚。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "邮件用品 Mail Items",
+          "page": 161,
+          "image": "ch5_imgs/page_161.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "envelope",
+              "phonetic": "ˈɛnvəˌloʊp",
+              "chinese": "信封",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "postcard",
+              "phonetic": "/ˈpoʊstˌkɑrd/",
+              "chinese": "明信片",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "legal-size envelope",
+              "phonetic": "legal-size* ˈɛnvəˌloʊp",
+              "chinese": "长信封；法律尺寸信封",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "stamp",
+              "phonetic": "stæmp",
+              "chinese": "邮票",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "return address",
+              "phonetic": "rɪˈtərn ˈæˌdrɛs",
+              "chinese": "寄信人地址；退信地址",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "zip code",
+              "phonetic": "zɪp koʊd",
+              "chinese": "邮政编码",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "a sheet of stamps",
+              "phonetic": "ə ʃit əv stæmps",
+              "chinese": "一张邮票",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "address",
+              "phonetic": "ˈæˌdrɛs",
+              "chinese": "地址",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "a roll of stamps",
+              "phonetic": "ə roʊl əv stæmps",
+              "chinese": "一卷邮票",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "commemorative",
+              "phonetic": "/kəˈmɛmərətɪv/",
+              "chinese": "纪念的；纪念邮票",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "lick a stamp",
+              "phonetic": "lɪk ə stæmp",
+              "chinese": "舔邮票",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "mail slot",
+              "phonetic": "meɪl slɑt",
+              "chinese": "投信口；信箱口",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 寄信",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Do you have a stamp?",
+                  "zh": "你有邮票吗？"
+                },
+                {
+                  "who": "B",
+                  "en": "Lick a stamp and put it on the envelope.",
+                  "zh": "舔一下邮票贴到信封上。"
+                },
+                {
+                  "who": "A",
+                  "en": "Don't forget the return address.",
+                  "zh": "别忘了寄信人地址。"
+                },
+                {
+                  "who": "B",
+                  "en": "And the zip code, right.",
+                  "zh": "还有邮编，对。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "药房与医院 Pharmacy and Hospital",
+          "page": 162,
+          "image": "ch5_imgs/page_162.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "pharmacy",
+              "phonetic": "/ˈfɑrməsi/",
+              "chinese": "药房；药店",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "hospital",
+              "phonetic": "ˈhɑˌspɪtəl",
+              "chinese": "医院",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "prescription",
+              "phonetic": "/prɪˈskrɪpʃən/",
+              "chinese": "处方",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "reception",
+              "phonetic": "rɪˈsɛpʃən",
+              "chinese": "接待；前台",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "nurse",
+              "phonetic": "nərs",
+              "chinese": "护士",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "patient",
+              "phonetic": "ˈpeɪʃənt",
+              "chinese": "病人",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "paramedic",
+              "phonetic": "/ˌpærəˈmɛdɪk/",
+              "chinese": "护理人员；急救员",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 买药",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "I need this prescription filled.",
+                  "zh": "我要配这个处方。"
+                },
+                {
+                  "who": "B",
+                  "en": "Wait at reception; the pharmacist will help.",
+                  "zh": "在接待处等，药剂师会帮你。"
+                },
+                {
+                  "who": "A",
+                  "en": "Is the patient in the ward?",
+                  "zh": "病人在病房吗？"
+                },
+                {
+                  "who": "B",
+                  "en": "The paramedic is with him now.",
+                  "zh": "急救员现在陪着他。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "疼痛与疾病 Pain and Illness",
+          "page": 163,
+          "image": "ch5_imgs/page_163.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "pain",
+              "phonetic": "peɪn",
+              "chinese": "疼痛",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "hurt",
+              "phonetic": "hərt",
+              "chinese": "疼；受伤",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "ache",
+              "phonetic": "eɪk",
+              "chinese": "隐痛；持续地痛",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "indigestion",
+              "phonetic": "/ˌɪndɪˈdʒɛstʃən/",
+              "chinese": "消化不良",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "backache",
+              "phonetic": "/ˈbækˌeɪk/",
+              "chinese": "背痛",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "sneeze",
+              "phonetic": "sniz",
+              "chinese": "打喷嚏",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "sprain",
+              "phonetic": "/spreɪn/",
+              "chinese": "扭伤",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "allergic",
+              "phonetic": "/əˈlɜrdʒɪk/",
+              "chinese": "过敏的",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "bloodshot",
+              "phonetic": "/ˈblədˌʃɑt/",
+              "chinese": "充血的；布满血丝的",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "fever",
+              "phonetic": "/ˈfivər/",
+              "chinese": "发烧",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "food poisoning",
+              "phonetic": "fud ˈpɔɪzənɪŋ",
+              "chinese": "食物中毒",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "scrape",
+              "phonetic": "skreɪp",
+              "chinese": "擦伤",
+              "notes": ""
+            },
+            {
+              "item_no": 13,
+              "english": "scratch",
+              "phonetic": "skræʧ",
+              "chinese": "抓伤；挠",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I had a toothache, so I went to a dentist.",
+              "chinese": "我牙疼，所以去了牙医那里。",
+              "example": "I had a toothache, so I went to a dentist.",
+              "example_zh": "我牙疼，所以去了牙医那里。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "My stiff neck was much better after a good massage.",
+              "chinese": "好好按摩后，我僵硬的脖子好多了。",
+              "example": "My stiff neck was much better after a good massage.",
+              "example_zh": "好好按摩后，我僵硬的脖子好多了。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I coughed a lot last night and now have a sore throat.",
+              "chinese": "昨晚咳了很多，现在嗓子疼。",
+              "example": "I coughed a lot last night and now have a sore throat.",
+              "example_zh": "昨晚咳了很多，现在嗓子疼。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I'm allergic to cat hair.",
+              "chinese": "我对猫毛过敏。",
+              "example": "I'm allergic to cat hair.",
+              "example_zh": "我对猫毛过敏。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Do you have a fever?",
+              "chinese": "你发烧吗？",
+              "example": "Do you have a fever?",
+              "example_zh": "你发烧吗？",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 2 胃疼就医",
+              "source": "原书OCR校正",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "You look awful. Are you all right?",
+                  "zh": "你看起来脸色很差。你还好吗？"
+                },
+                {
+                  "who": "B",
+                  "en": "Actually, my stomach hurts terribly. I have no appetite. I have a headache, too.",
+                  "zh": "其实我胃疼得厉害，没胃口，还头疼。"
+                },
+                {
+                  "who": "A",
+                  "en": "You should go see a doctor.",
+                  "zh": "你应该去看医生。"
+                },
+                {
+                  "who": "B",
+                  "en": "Well, I took some medicine a few minutes ago. Maybe it's just a cold or bad indigestion.",
+                  "zh": "嗯，我几分钟前吃了点药。也许只是感冒或消化不良。"
+                },
+                {
+                  "who": "A",
+                  "en": "It can be serious. Come on, go to the hospital now!",
+                  "zh": "可能会很严重。快，现在就去医院！"
+                },
+                {
+                  "who": "B",
+                  "en": "I have to go to the bank first. I don't have cash on hand now.",
+                  "zh": "我得先去银行，现在手头没现金。"
+                },
+                {
+                  "who": "A",
+                  "en": "Don't worry. I'll lend you some money.",
+                  "zh": "别担心，我借你点钱。"
+                },
+                {
+                  "who": "B",
+                  "en": "Really? Thanks.",
+                  "zh": "真的吗？谢谢。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "邮寄用语 Mail Actions",
+          "page": 165,
+          "image": "ch5_imgs/page_165.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "How much does it cost to send air mail?",
+              "phonetic": "haʊ məʧ dɪz ɪt kɔst tɪ sɛnd ɛr meɪl?",
+              "chinese": "寄航空信要多少钱？",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "I wrote a postcard to my friend.",
+              "phonetic": "aɪ roʊt ə ˈpoʊˌskɑrd tɪ maɪ frɛnd.",
+              "chinese": "我给朋友写明信片。",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "This letter will be delivered within five days.",
+              "phonetic": "ðɪs ˈlɛtər wɪl bi dɪˈlɪvərd wɪˈθɪn faɪv deɪz.",
+              "chinese": "这封信五天之内送达。",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "We need a prescription to buy this drug at a pharmacy.",
+              "phonetic": "wi nid ə prəˈskrɪpʃən tɪ baɪ ðɪs drəg æt ə ˈfɑrməsi.",
+              "chinese": "在药店买药需要处方。",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "The nurse took the patient's temperature.",
+              "phonetic": "ðə nərs tʊk ðə ˈpeɪʃənts ˈtɛmpərəʧər.",
+              "chinese": "护士量了病人的体温。",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 航空信",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "How much does it cost to send air mail?",
+                  "zh": "寄航空信要多少钱？"
+                },
+                {
+                  "who": "B",
+                  "en": "I wrote a postcard to my friend.",
+                  "zh": "我给朋友写明信片。"
+                },
+                {
+                  "who": "A",
+                  "en": "This letter will be delivered within five days.",
+                  "zh": "这封信五天之内送达。"
+                },
+                {
+                  "who": "B",
+                  "en": "We need a prescription to buy this drug.",
+                  "zh": "买这药需要处方。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "游乐园 Amusement Park",
+          "page": 168,
+          "image": "ch5_imgs/page_168.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "amusement park",
+              "phonetic": "/əˈmjuzmənt pɑrk/",
+              "chinese": "游乐园",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "admission fee",
+              "phonetic": "ədˈmɪʃən fi",
+              "chinese": "门票；入场费",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "line/queue",
+              "phonetic": "line/queue*",
+              "chinese": "队伍",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "wait in line",
+              "phonetic": "weɪt ɪn laɪn",
+              "chinese": "排队",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "ball",
+              "phonetic": "bɔl",
+              "chinese": "球",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "attraction",
+              "phonetic": "əˈtrækʃən",
+              "chinese": "游乐设施；景点",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "roller coaster",
+              "phonetic": "/ˈroʊlər ˌkoʊstər/",
+              "chinese": "过山车",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "merry-go-round",
+              "phonetic": "/ˈmɛri ɡoʊ raʊnd/",
+              "chinese": "旋转木马",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "digital camera",
+              "phonetic": "/ˈdɪdʒɪtəl ˈkæmərə/",
+              "chinese": "数码相机",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "take/snap a picture",
+              "phonetic": "take/snap* ə ˈpɪkʧər",
+              "chinese": "拍照",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "wild animal tamer",
+              "phonetic": "waɪld ˈænəməl ˈteɪmər",
+              "chinese": "驯兽师",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "We must pay an admission fee at the entrance.",
+              "chinese": "我们得在入口处买门票。",
+              "example": "We must pay an admission fee at the entrance.",
+              "example_zh": "我们得在入口处买门票。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Can you take a picture of us with this digital camera?",
+              "chinese": "你能用这个数码相机给我们拍张照吗？",
+              "example": "Can you take a picture of us with this digital camera?",
+              "example_zh": "你能用这个数码相机给我们拍张照吗？",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "The little boy was lost in the crowd.",
+              "chinese": "小男孩在人群里走丢了。",
+              "example": "The little boy was lost in the crowd.",
+              "example_zh": "小男孩在人群里走丢了。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 3 去游乐园",
+              "source": "原书OCR校正",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "What do you think of going to this new amusement park?",
+                  "zh": "你觉得去这个新游乐园怎么样？"
+                },
+                {
+                  "who": "B",
+                  "en": "I think it will be crowded. I hate to wait in long lines.",
+                  "zh": "我想人会很多。我讨厌排长队。"
+                },
+                {
+                  "who": "A",
+                  "en": "OK, then. How about this musical at the ALC Theater?",
+                  "zh": "那好吧。那去ALC剧院看这场音乐剧怎么样？"
+                },
+                {
+                  "who": "B",
+                  "en": "I hear it's very popular. Do you think tickets are still available?",
+                  "zh": "我听说很受欢迎。你觉得还有票吗？"
+                },
+                {
+                  "who": "A",
+                  "en": "Hmm, I don't know... I didn't think about that.",
+                  "zh": "嗯，我不知道……我没考虑到这个。"
+                },
+                {
+                  "who": "B",
+                  "en": "There are no amusing movies this weekend, either. They all look boring.",
+                  "zh": "这周末也没有好看的电影，都看起来很无聊。"
+                },
+                {
+                  "who": "A",
+                  "en": "OK, why don't we bring lunch to the park?",
+                  "zh": "好吧，那我们带午饭去公园怎么样？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "海滩 Beach",
+          "page": 169,
+          "image": "ch5_imgs/page_169.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "crowd",
+              "phonetic": "kraʊd",
+              "chinese": "人群",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "beach",
+              "phonetic": "biʧ",
+              "chinese": "海滩；沙滩",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "make a sandcastle",
+              "phonetic": "meɪk ə sandcastle*",
+              "chinese": "堆沙堡",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "page",
+              "phonetic": "peɪʤ",
+              "chinese": "页；书页",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 海滩",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "The crowd at the beach is huge.",
+                  "zh": "海滩上的人很多。"
+                },
+                {
+                  "who": "B",
+                  "en": "Let's make a sandcastle over there.",
+                  "zh": "我们去那边堆沙堡吧。"
+                },
+                {
+                  "who": "A",
+                  "en": "Watch the page; the wind is strong.",
+                  "zh": "看着书页，风很大。"
+                },
+                {
+                  "who": "B",
+                  "en": "Sure, away from the waves.",
+                  "zh": "好，离浪远点。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "剧院与电影 Theater and Movie",
+          "page": 170,
+          "image": "ch5_imgs/page_170.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "percussion",
+              "phonetic": "/pərˈkʌʃən/",
+              "chinese": "打击乐器",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "musician",
+              "phonetic": "/mjuˈzɪʃən/",
+              "chinese": "音乐家；乐手",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "audience",
+              "phonetic": "/ˈɔdiəns/",
+              "chinese": "观众",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "applaud",
+              "phonetic": "/əˈplɔd/",
+              "chinese": "鼓掌；喝彩",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "performance",
+              "phonetic": "/pərˈfɔrməns/",
+              "chinese": "演出；表演",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "block",
+              "phonetic": "blɑk",
+              "chinese": "街区；大楼",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "The audience applauded the orchestra on stage loudly.",
+              "chinese": "观众大声为台上的管弦乐队鼓掌。",
+              "example": "The audience applauded the orchestra on stage loudly.",
+              "example_zh": "观众大声为台上的管弦乐队鼓掌。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 看演出",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "The performance was wonderful.",
+                  "zh": "演出太精彩了。"
+                },
+                {
+                  "who": "B",
+                  "en": "The audience applauded for ten minutes.",
+                  "zh": "观众鼓掌鼓了十分钟。"
+                },
+                {
+                  "who": "A",
+                  "en": "That musician plays percussion so well.",
+                  "zh": "那位乐手打击乐打得真好。"
+                },
+                {
+                  "who": "B",
+                  "en": "Let's come back next month.",
+                  "zh": "下个月我们再来。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "电影院 Movie Theater",
+          "page": 171,
+          "image": "ch5_imgs/page_171.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "marquee",
+              "phonetic": "/mɑrˈki/",
+              "chinese": "影院遮檐招牌",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "billboard",
+              "phonetic": "/ˈbɪlˌbɔrd/",
+              "chinese": "广告牌",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "coming attractions",
+              "phonetic": "ˈkəmɪŋ əˈtrækʃənz",
+              "chinese": "预告片；即将上映",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "impressive movie",
+              "phonetic": "ˌɪmˈprɛsɪv ˈmuvi",
+              "chinese": "令人印象深刻的电影",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "R-rated movie",
+              "phonetic": "r-rated* ˈmuvi",
+              "chinese": "限制级电影",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "family-oriented film",
+              "phonetic": "family-oriented* fɪlm",
+              "chinese": "适合全家看的电影",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "restricted area",
+              "phonetic": "riˈstrɪktɪd ˈɛriə",
+              "chinese": "禁区；限制区域",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "worth watching",
+              "phonetic": "wərθ ˈwɑʧɪŋ",
+              "chinese": "值得看",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "strictly prohibited",
+              "phonetic": "ˈstrɪktli proʊˈhɪbətəd",
+              "chinese": "严禁",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "box-office",
+              "phonetic": "box-office*",
+              "chinese": "售票处；票房",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "This movie is easy to understand and worth watching.",
+              "chinese": "这部电影易懂又值得看。",
+              "example": "This movie is easy to understand and worth watching.",
+              "example_zh": "这部电影易懂又值得看。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 看电影",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "This movie is a must-see.",
+                  "zh": "这部电影是必看之作。"
+                },
+                {
+                  "who": "B",
+                  "en": "Check where the emergency exits are.",
+                  "zh": "看看紧急出口在哪。"
+                },
+                {
+                  "who": "A",
+                  "en": "Is it family-oriented?",
+                  "zh": "它适合全家看吗？"
+                },
+                {
+                  "who": "B",
+                  "en": "Yes, strictly prohibited for kids? No, it's fine.",
+                  "zh": "适合，没有儿童限制。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "运动 Sports",
+          "page": 172,
+          "image": "ch5_imgs/page_172.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "tennis",
+              "phonetic": "/ˈtɛnɪs/",
+              "chinese": "网球",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "court",
+              "phonetic": "kɔrt",
+              "chinese": "球场；场地",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "goal",
+              "phonetic": "goʊl",
+              "chinese": "球门；得分",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "baseball",
+              "phonetic": "/ˈbeɪsˌbɔl/",
+              "chinese": "棒球",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "stadium",
+              "phonetic": "/ˈsteɪdiəm/",
+              "chinese": "体育场",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "ballpark",
+              "phonetic": "/ˈbɔlˌpɑrk/",
+              "chinese": "棒球场",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "hit a home run",
+              "phonetic": "hɪt ə hoʊm rən",
+              "chinese": "击出本垒打",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "play",
+              "phonetic": "pleɪ",
+              "chinese": "比赛；玩",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "swimming",
+              "phonetic": "/ˈswɪmɪŋ/",
+              "chinese": "游泳",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "I work out at a gym regularly.",
+              "chinese": "我定期在健身房锻炼。",
+              "example": "I work out at a gym regularly.",
+              "example_zh": "我定期在健身房锻炼。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 看球赛",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "He hit a home run!",
+                  "zh": "他击出了本垒打！"
+                },
+                {
+                  "who": "B",
+                  "en": "The batter is amazing today.",
+                  "zh": "今天那个击球手真厉害。"
+                },
+                {
+                  "who": "A",
+                  "en": "Let's cheer for our team.",
+                  "zh": "我们为球队加油吧。"
+                },
+                {
+                  "who": "B",
+                  "en": "The stadium is packed.",
+                  "zh": "体育场人满为患。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "约会 Date",
+          "page": 173,
+          "image": "ch5_imgs/page_173.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "be seeing someone",
+              "phonetic": "bi siɪŋ ˈsəmˌwən",
+              "chinese": "和某人在交往",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "date",
+              "phonetic": "deɪt",
+              "chinese": "约会",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "get together",
+              "phonetic": "gɪt təˈgɛðər",
+              "chinese": "聚会；相聚",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "be stood up",
+              "phonetic": "bi stʊd əp",
+              "chinese": "被放鸽子",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "have a good time",
+              "phonetic": "hæv ə gʊd taɪm",
+              "chinese": "玩得开心",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "cheat on A with B",
+              "phonetic": "ʧit ɔn ə wɪθ bi",
+              "chinese": "对A不忠；出轨",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "spend time together",
+              "phonetic": "spɛnd taɪm təˈgɛðər",
+              "chinese": "共度时光",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "time to say goodbye",
+              "phonetic": "taɪm tɪ seɪ ˌgʊdˈbaɪ",
+              "chinese": "说再见的时候",
+              "notes": ""
+            },
+            {
+              "item_no": 9,
+              "english": "miss the last train/bus",
+              "phonetic": "mɪs ðə læst train/bus*",
+              "chinese": "错过末班车/末班公交",
+              "notes": ""
+            },
+            {
+              "item_no": 10,
+              "english": "go out for dinner",
+              "phonetic": "goʊ aʊt fər ˈdɪnər",
+              "chinese": "出去吃晚饭",
+              "notes": ""
+            },
+            {
+              "item_no": 11,
+              "english": "take a taxi/cab home",
+              "phonetic": "teɪk ə taxi/cab* hoʊm",
+              "chinese": "打车回家",
+              "notes": ""
+            },
+            {
+              "item_no": 12,
+              "english": "take the last train home",
+              "phonetic": "teɪk ðə læst treɪn hoʊm",
+              "chinese": "坐末班车回家",
+              "notes": ""
+            }
+          ],
+          "phrases": [
+            {
+              "english": "At last, he asked me for a date.",
+              "chinese": "他终于约我了。",
+              "example": "At last, he asked me for a date.",
+              "example_zh": "他终于约我了。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "Former high school classmates got together at a reunion party.",
+              "chinese": "高中老同学在校友聚会上相聚。",
+              "example": "Former high school classmates got together at a reunion party.",
+              "example_zh": "高中老同学在校友聚会上相聚。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I've heard that John broke up with Britney.",
+              "chinese": "我听说约翰和布兰妮分手了。",
+              "example": "I've heard that John broke up with Britney.",
+              "example_zh": "我听说约翰和布兰妮分手了。",
+              "status": "原书OCR校正"
+            },
+            {
+              "english": "I went out for dinner with my friend.",
+              "chinese": "我和朋友出去吃了晚饭。",
+              "example": "I went out for dinner with my friend.",
+              "example_zh": "我和朋友出去吃了晚饭。",
+              "status": "原书OCR校正"
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "scene": "观影与比赛 Movie and Game",
+          "page": 175,
+          "image": "ch5_imgs/page_175.png",
+          "vocab": [
+            {
+              "item_no": 1,
+              "english": "box-office movie",
+              "phonetic": "box-office* ˈmuvi",
+              "chinese": "卖座电影",
+              "notes": ""
+            },
+            {
+              "item_no": 2,
+              "english": "a must-see",
+              "phonetic": "ə must-see*",
+              "chinese": "必看之作",
+              "notes": ""
+            },
+            {
+              "item_no": 3,
+              "english": "emergency exit",
+              "phonetic": "ˈimərʤənsi ˈɛksət",
+              "chinese": "紧急出口",
+              "notes": ""
+            },
+            {
+              "item_no": 4,
+              "english": "athlete",
+              "phonetic": "ˈæθˌlit",
+              "chinese": "运动员",
+              "notes": ""
+            },
+            {
+              "item_no": 5,
+              "english": "final(s)",
+              "phonetic": "final(s*)",
+              "chinese": "决赛",
+              "notes": ""
+            },
+            {
+              "item_no": 6,
+              "english": "cheer for",
+              "phonetic": "ʧɪr fər",
+              "chinese": "为…加油",
+              "notes": ""
+            },
+            {
+              "item_no": 7,
+              "english": "batter",
+              "phonetic": "ˈbætər",
+              "chinese": "击球手",
+              "notes": ""
+            },
+            {
+              "item_no": 8,
+              "english": "hit a home run",
+              "phonetic": "hɪt ə hoʊm rən",
+              "chinese": "击出本垒打",
+              "notes": ""
+            }
+          ],
+          "phrases": [],
+          "dialogues": [
+            {
+              "title": "Dialogue 决赛",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "The finals are tonight.",
+                  "zh": "决赛就在今晚。"
+                },
+                {
+                  "who": "B",
+                  "en": "The athlete I cheer for is in great form.",
+                  "zh": "我支持的运动员状态很好。"
+                },
+                {
+                  "who": "A",
+                  "en": "Don't miss the box-office movie later.",
+                  "zh": "之后别错过那部卖座片。"
+                },
+                {
+                  "who": "B",
+                  "en": "I'll set a reminder.",
+                  "zh": "我设个提醒。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
