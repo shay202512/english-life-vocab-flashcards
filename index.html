@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>生活词汇单词卡</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+  <h1 id="chapterTitle">生活词汇单词卡</h1>
+  <nav id="chapterNav"></nav>
+  <div class="mode-switch">
+    <button id="btnAtlas" class="mode-btn active">🗺 图鉴模式</button>
+    <button id="btnFlash" class="mode-btn">🃏 闪卡模式</button>
+  </div>
+</header>
+
+<nav id="sceneNav"></nav>
+
+<main>
+  <!-- 上半：左图 + 右单词（图鉴/闪卡切换） -->
+  <div class="stage">
+    <div class="stage-left">
+      <img id="sceneImg" src="" alt="场景图" />
+    </div>
+    <div class="stage-right">
+      <section id="atlasView" class="view">
+        <div class="atlas-list" id="atlasList"></div>
+      </section>
+      <section id="flashView" class="view hidden">
+        <div class="cards" id="flashCards"></div>
+      </section>
+    </div>
+  </div>
+
+  <!-- 下半：短语 + 情景对话 -->
+  <div class="lower">
+    <section class="block phrases-block">
+      <h2>💬 常用短语 <button class="speak-all" data-target="phrase">🔊 全部朗读</button></h2>
+      <ul id="phraseList" class="phrase-list"></ul>
+    </section>
+    <section class="block dialogues-block">
+      <h2>🎭 情景对话 <button class="speak-all" data-target="dialogue">🔊 全部朗读</button></h2>
+      <div id="dialogueList" class="dialogue-list"></div>
+    </section>
+  </div>
+</main>
+
+<!-- 词卡弹窗 -->
+<div id="modal" class="modal hidden">
+  <div class="modal-backdrop" id="modalBackdrop"></div>
+  <div class="modal-card" id="modalCard"></div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
