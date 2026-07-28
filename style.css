@@ -149,6 +149,14 @@ main { max-width: 1120px; margin: 0 auto; padding: 18px 16px 60px; }
   .stage-left { position: static; flex: none; max-width: 100%; }
   .stage-left img { max-height: 420px; margin: 0 auto; }
   .lower { flex-direction: column; }
+  /* 闪卡在平板/横屏手机也单列全宽，避免多列窄卡挤成一团 */
+  .cards { grid-template-columns: 1fr; gap: 12px; }
+  .flip { height: 150px; }
+  .flip-front .en { font-size: 21px; }
+  .flip-back .ph { font-size: 15px; margin: 6px 0; }
+  .flip-back .cn { font-size: 17px; }
+  /* 图鉴在平板也最多 2 列，避免过窄 */
+  .atlas-list { grid-template-columns: 1fr 1fr; }
 }
 
 /* 手机：顶部重排、导航横滑、紧凑网格 */
