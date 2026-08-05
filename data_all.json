@@ -15236,8 +15236,50 @@
               "notes": ""
             }
           ],
-          "phrases": [],
-          "dialogues": []
+          "phrases": [
+            {
+              "english": "We sat on the terrace to enjoy the breeze.",
+              "chinese": "我们坐在露台上享受微风。",
+              "example": "We sat on the terrace to enjoy the breeze.",
+              "example_zh": "我们坐在露台上享受微风。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "This restaurant has outdoor seating.",
+              "chinese": "这家餐厅有户外座位。",
+              "example": "This restaurant has outdoor seating.",
+              "example_zh": "这家餐厅有户外座位。",
+              "status": "AI生成·待校对"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 露台用餐",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Do you want to sit inside or on the terrace?",
+                  "zh": "你想坐里面还是露台？"
+                },
+                {
+                  "who": "B",
+                  "en": "The terrace, please. It's such a nice evening.",
+                  "zh": "露台吧。今晚天气真好。"
+                },
+                {
+                  "who": "A",
+                  "en": "Great. The outdoor seating has a lovely view.",
+                  "zh": "好。户外座位视野不错。"
+                },
+                {
+                  "who": "B",
+                  "en": "Let's order some iced tea to start.",
+                  "zh": "我们先点冰茶吧。"
+                }
+              ]
+            }
+          ]
         },
         {
           "scene": "餐厅·点餐 Ordering",
@@ -15463,8 +15505,50 @@
               "notes": ""
             }
           ],
-          "phrases": [],
-          "dialogues": []
+          "phrases": [
+            {
+              "english": "The local cuisine is well worth trying.",
+              "chinese": "当地菜肴很值得一试。",
+              "example": "The local cuisine is well worth trying.",
+              "example_zh": "当地菜肴很值得一试。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "This dish is a little too salty for me.",
+              "chinese": "这道菜对我来说有点太咸。",
+              "example": "This dish is a little too salty for me.",
+              "example_zh": "这道菜对我来说有点太咸。",
+              "status": "AI生成·待校对"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 尝菜",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "How do you like the local cuisine?",
+                  "zh": "你觉得当地菜怎么样？"
+                },
+                {
+                  "who": "B",
+                  "en": "It's flavorful, but a bit too salty for me.",
+                  "zh": "很有味道，但对我来说有点咸。"
+                },
+                {
+                  "who": "A",
+                  "en": "Try this dish — it's mild and a little sweet.",
+                  "zh": "尝尝这道，清淡带点甜。"
+                },
+                {
+                  "who": "B",
+                  "en": "Mmm, much better. I'll have seconds.",
+                  "zh": "嗯，好多了。我要再来一份。"
+                }
+              ]
+            }
+          ]
         },
         {
           "scene": "快餐与甜点 Fast Food and Desserts",
@@ -15549,8 +15633,50 @@
               "notes": ""
             }
           ],
-          "phrases": [],
-          "dialogues": []
+          "phrases": [
+            {
+              "english": "I'll grab a hamburger and a large fries.",
+              "chinese": "我买一个汉堡和一大份薯条。",
+              "example": "I'll grab a hamburger and a large fries.",
+              "example_zh": "我买一个汉堡和一大份薯条。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "What would you like for dessert, ice cream or cake?",
+              "chinese": "甜点你想吃什么，冰淇淋还是蛋糕？",
+              "example": "What would you like for dessert, ice cream or cake?",
+              "example_zh": "甜点你想吃什么，冰淇淋还是蛋糕？",
+              "status": "AI生成·待校对"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 点快餐",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "I'll have a hamburger and a large fries.",
+                  "zh": "我要汉堡和一大份薯条。"
+                },
+                {
+                  "who": "B",
+                  "en": "And for dessert?",
+                  "zh": "甜点呢？"
+                },
+                {
+                  "who": "A",
+                  "en": "A scoop of vanilla ice cream, please.",
+                  "zh": "一勺香草冰淇淋，谢谢。"
+                },
+                {
+                  "who": "B",
+                  "en": "Coming right up. That'll be twelve dollars.",
+                  "zh": "马上来。一共十二美元。"
+                }
+              ]
+            }
+          ]
         },
         {
           "scene": "酒吧与自助餐 Bar and Buffet",
@@ -15614,7 +15740,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "The bar serves a wide range of cocktails.",
+              "chinese": "这家酒吧供应各种鸡尾酒。",
+              "example": "The bar serves a wide range of cocktails.",
+              "example_zh": "这家酒吧供应各种鸡尾酒。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "The buffet has both hot and cold dishes.",
+              "chinese": "自助餐有热菜和冷盘。",
+              "example": "The buffet has both hot and cold dishes.",
+              "example_zh": "自助餐有热菜和冷盘。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 自助餐",
@@ -15727,7 +15868,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Could I have a glass of water, please?",
+              "chinese": "请给我一杯水好吗？",
+              "example": "Could I have a glass of water, please?",
+              "example_zh": "请给我一杯水好吗？",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Let's share a basket of mixed nuts.",
+              "chinese": "我们分一篮什锦坚果吧。",
+              "example": "Let's share a basket of mixed nuts.",
+              "example_zh": "我们分一篮什锦坚果吧。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 点酒",
@@ -15798,7 +15954,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "The service here is excellent.",
+              "chinese": "这里的服务一流。",
+              "example": "The service here is excellent.",
+              "example_zh": "这里的服务一流。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Let's split the bill this time.",
+              "chinese": "这次我们平摊账单吧。",
+              "example": "Let's split the bill this time.",
+              "example_zh": "这次我们平摊账单吧。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 加菜续杯",
@@ -15876,8 +16047,50 @@
               "notes": ""
             }
           ],
-          "phrases": [],
-          "dialogues": []
+          "phrases": [
+            {
+              "english": "Let's raise our glasses to the happy couple.",
+              "chinese": "让我们为这对幸福的伴侣举杯。",
+              "example": "Let's raise our glasses to the happy couple.",
+              "example_zh": "让我们为这对幸福的伴侣举杯。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "I'd like a latte with an extra shot.",
+              "chinese": "我要一杯加浓拿铁。",
+              "example": "I'd like a latte with an extra shot.",
+              "example_zh": "我要一杯加浓拿铁。",
+              "status": "AI生成·待校对"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 敬酒与咖啡",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Let's raise a glass to your new job!",
+                  "zh": "为你的新工作干杯！"
+                },
+                {
+                  "who": "B",
+                  "en": "Cheers! I'll have a latte after this.",
+                  "zh": "干杯！之后我要喝杯拿铁。"
+                },
+                {
+                  "who": "A",
+                  "en": "Coffee or espresso?",
+                  "zh": "咖啡还是浓缩？"
+                },
+                {
+                  "who": "B",
+                  "en": "A latte with an extra shot, thanks.",
+                  "zh": "加浓拿铁，谢谢。"
+                }
+              ]
+            }
+          ]
         },
         {
           "scene": "回家 Getting Home",
@@ -15934,7 +16147,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "I'm home. I'll kick off my shoes.",
+              "chinese": "我到家了。我要把鞋踢掉。",
+              "example": "I'm home. I'll kick off my shoes.",
+              "example_zh": "我到家了。我要把鞋踢掉。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Let me check the answering machine.",
+              "chinese": "让我查一下留言机。",
+              "example": "Let me check the answering machine.",
+              "example_zh": "让我查一下留言机。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 2 回家",
@@ -16179,7 +16407,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "What's on TV tonight?",
+              "chinese": "今晚有什么电视节目？",
+              "example": "What's on TV tonight?",
+              "example_zh": "今晚有什么电视节目？",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "The quiz show starts at eight.",
+              "chinese": "益智问答节目八点开始。",
+              "example": "The quiz show starts at eight.",
+              "example_zh": "益智问答节目八点开始。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 天气预报",
@@ -16513,7 +16756,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "The weather forecast calls for rain.",
+              "chinese": "天气预报说有雨。",
+              "example": "The weather forecast calls for rain.",
+              "example_zh": "天气预报说有雨。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Turn on the news for the latest update.",
+              "chinese": "打开新闻看最新播报。",
+              "example": "Turn on the news for the latest update.",
+              "example_zh": "打开新闻看最新播报。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 追剧",
@@ -16782,7 +17040,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "The showerhead needs a good scrub.",
+              "chinese": "莲蓬头需要好好刷洗。",
+              "example": "The showerhead needs a good scrub.",
+              "example_zh": "莲蓬头需要好好刷洗。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Where did I put my toothbrush?",
+              "chinese": "我把牙刷放哪了？",
+              "example": "Where did I put my toothbrush?",
+              "example_zh": "我把牙刷放哪了？",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 洗澡",
@@ -17301,8 +17574,50 @@
               "notes": ""
             }
           ],
-          "phrases": [],
-          "dialogues": []
+          "phrases": [
+            {
+              "english": "I brush my teeth before bed.",
+              "chinese": "我睡前刷牙。",
+              "example": "I brush my teeth before bed.",
+              "example_zh": "我睡前刷牙。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Wash your face and get ready for bed.",
+              "chinese": "洗把脸，准备睡觉吧。",
+              "example": "Wash your face and get ready for bed.",
+              "example_zh": "洗把脸，准备睡觉吧。",
+              "status": "AI生成·待校对"
+            }
+          ],
+          "dialogues": [
+            {
+              "title": "Dialogue 睡前洗漱",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Don't forget to brush your teeth.",
+                  "zh": "别忘了刷牙。"
+                },
+                {
+                  "who": "B",
+                  "en": "I already washed my face.",
+                  "zh": "我已经洗脸了。"
+                },
+                {
+                  "who": "A",
+                  "en": "Then put on your nightgown and hop into bed.",
+                  "zh": "那穿上睡袍上床吧。"
+                },
+                {
+                  "who": "B",
+                  "en": "Okay. Good night!",
+                  "zh": "好。晚安！"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
