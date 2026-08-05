@@ -2,7 +2,7 @@
 const STATE = { data: { chapters: [] }, chapterIdx: 0, sceneIdx: 0, mode: "atlas" };
 
 async function load() {
-  const res = await fetch("data_all.json");
+  const res = await fetch("data_all.json?v=20260805");
   STATE.data = await res.json();
   if (!STATE.data.chapters || !STATE.data.chapters.length) return;
   document.getElementById("chapterTitle").textContent = "生活词汇单词卡";
