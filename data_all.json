@@ -4854,7 +4854,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "The car won't start; the battery is dead.",
+              "chinese": "车打不着火，电池没电了。",
+              "example": "The car won't start; the battery is dead.",
+              "example_zh": "车打不着火，电池没电了。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "I need to fill up the gas tank.",
+              "chinese": "我得把油箱加满。",
+              "example": "I need to fill up the gas tank.",
+              "example_zh": "我得把油箱加满。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 看车",
@@ -4984,7 +4999,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Fasten your seat belt, please.",
+              "chinese": "请系好安全带。",
+              "example": "Fasten your seat belt, please.",
+              "example_zh": "请系好安全带。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "The air conditioner is on full blast.",
+              "chinese": "空调开到最大了。",
+              "example": "The air conditioner is on full blast.",
+              "example_zh": "空调开到最大了。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 上车准备",
@@ -5933,7 +5963,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Press the button for the eleventh floor.",
+              "chinese": "按十一楼的按钮。",
+              "example": "Press the button for the eleventh floor.",
+              "example_zh": "按十一楼的按钮。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "The elevator is out of order.",
+              "chinese": "电梯坏了。",
+              "example": "The elevator is out of order.",
+              "example_zh": "电梯坏了。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 上班打卡",
@@ -6133,7 +6178,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Smoking is not allowed inside the office.",
+              "chinese": "办公室内禁止吸烟。",
+              "example": "Smoking is not allowed inside the office.",
+              "example_zh": "办公室内禁止吸烟。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "The file cabinet is locked.",
+              "chinese": "文件柜锁着。",
+              "example": "The file cabinet is locked.",
+              "example_zh": "文件柜锁着。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 整理文件",
@@ -6361,7 +6421,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "I need a stapler and some paper clips.",
+              "chinese": "我需要订书机和些回形针。",
+              "example": "I need a stapler and some paper clips.",
+              "example_zh": "我需要订书机和些回形针。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Do we have any spare toner?",
+              "chinese": "有备用墨粉吗？",
+              "example": "Do we have any spare toner?",
+              "example_zh": "有备用墨粉吗？",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 借文具",
@@ -7767,7 +7842,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Let me walk you through the slides.",
+              "chinese": "我带大家过一遍幻灯片。",
+              "example": "Let me walk you through the slides.",
+              "example_zh": "我带大家过一遍幻灯片。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Any questions before we wrap up?",
+              "chinese": "结束前有问题吗？",
+              "example": "Any questions before we wrap up?",
+              "example_zh": "结束前有问题吗？",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 做演示",
@@ -8558,7 +8648,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "She was promoted to vice president.",
+              "chinese": "她升任副总裁。",
+              "example": "She was promoted to vice president.",
+              "example_zh": "她升任副总裁。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Our head office is in Beijing.",
+              "chinese": "总部在北京。",
+              "example": "Our head office is in Beijing.",
+              "example_zh": "总部在北京。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 董事会",
@@ -8758,7 +8863,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Which department do you work in?",
+              "chinese": "你在哪个部门？",
+              "example": "Which department do you work in?",
+              "example_zh": "你在哪个部门？",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "The HR team is hiring this month.",
+              "chinese": "人事部这个月在招人。",
+              "example": "The HR team is hiring this month.",
+              "example_zh": "人事部这个月在招人。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 部门协作",
@@ -9211,7 +9331,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "The teacher wrote on the blackboard.",
+              "chinese": "老师在黑板上写字。",
+              "example": "The teacher wrote on the blackboard.",
+              "example_zh": "老师在黑板上写字。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Open your textbook to page twenty.",
+              "chinese": "翻开课本第二十页。",
+              "example": "Open your textbook to page twenty.",
+              "example_zh": "翻开课本第二十页。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 教室用具",
@@ -9488,7 +9623,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "He raised his hand to answer.",
+              "chinese": "他举手回答。",
+              "example": "He raised his hand to answer.",
+              "example_zh": "他举手回答。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "The students are taking an exam.",
+              "chinese": "学生们正在考试。",
+              "example": "The students are taking an exam.",
+              "example_zh": "学生们正在考试。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 毕业季",
@@ -10286,7 +10436,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Math is my weakest subject.",
+              "chinese": "数学是我最弱的科目。",
+              "example": "Math is my weakest subject.",
+              "example_zh": "数学是我最弱的科目。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "We have a chemistry lab today.",
+              "chinese": "今天有化学实验。",
+              "example": "We have a chemistry lab today.",
+              "example_zh": "今天有化学实验。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 选专业",
@@ -10463,7 +10628,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "The furniture needs dusting.",
+              "chinese": "家具需要擦灰。",
+              "example": "The furniture needs dusting.",
+              "example_zh": "家具需要擦灰。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Make your bed every morning.",
+              "chinese": "每天早上叠好床。",
+              "example": "Make your bed every morning.",
+              "example_zh": "每天早上叠好床。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 1 打扫房间",
@@ -10603,7 +10783,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Let some fresh air in.",
+              "chinese": "透透气。",
+              "example": "Let some fresh air in.",
+              "example_zh": "透透气。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "The curtains are a little dirty.",
+              "chinese": "窗帘有点脏。",
+              "example": "The curtains are a little dirty.",
+              "example_zh": "窗帘有点脏。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 看电视",
@@ -10767,7 +10962,34 @@
               "status": "原书OCR校正"
             }
           ],
-          "dialogues": []
+          "dialogues": [
+            {
+              "title": "Dialogue 打扫房间",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "The room is a mess after the party.",
+                  "zh": "派对后房间一团糟。"
+                },
+                {
+                  "who": "B",
+                  "en": "Let's tidy up together.",
+                  "zh": "我们一起收拾吧。"
+                },
+                {
+                  "who": "A",
+                  "en": "I'll sweep the floor and take out the trash.",
+                  "zh": "我扫地倒垃圾。"
+                },
+                {
+                  "who": "B",
+                  "en": "I'll wipe the table and mop the floor.",
+                  "zh": "我擦桌子拖地。"
+                }
+              ]
+            }
+          ]
         },
         {
           "scene": "垃圾与分类 Garbage",
@@ -11538,7 +11760,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "This coat needs dry cleaning.",
+              "chinese": "这件大衣要干洗。",
+              "example": "This coat needs dry cleaning.",
+              "example_zh": "这件大衣要干洗。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Pick up my suit from the cleaner's.",
+              "chinese": "去干洗店取我的西装。",
+              "example": "Pick up my suit from the cleaner's.",
+              "example_zh": "去干洗店取我的西装。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 送干洗",
@@ -11802,7 +12039,34 @@
               "status": "原书OCR校正"
             }
           ],
-          "dialogues": []
+          "dialogues": [
+            {
+              "title": "Dialogue 挑选配饰",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "This scarf matches your coat.",
+                  "zh": "这条围巾配你的大衣。"
+                },
+                {
+                  "who": "B",
+                  "en": "You think so? I'll try it on.",
+                  "zh": "你这么觉得？我试一下。"
+                },
+                {
+                  "who": "A",
+                  "en": "The leather bag is on sale.",
+                  "zh": "这个皮包在打折。"
+                },
+                {
+                  "who": "B",
+                  "en": "Let me check in the mirror.",
+                  "zh": "让我照照镜子。"
+                }
+              ]
+            }
+          ]
         },
         {
           "scene": "内衣 Underwear",
@@ -11887,7 +12151,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Change your underwear every day.",
+              "chinese": "每天换内裤。",
+              "example": "Change your underwear every day.",
+              "example_zh": "每天换内裤。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "These socks are a bit too tight.",
+              "chinese": "这袜子有点太紧。",
+              "example": "These socks are a bit too tight.",
+              "example_zh": "这袜子有点太紧。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 收拾衣物",
@@ -12326,7 +12605,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Rinse the dishes before loading the dishwasher.",
+              "chinese": "装洗碗机前先冲一下碗。",
+              "example": "Rinse the dishes before loading the dishwasher.",
+              "example_zh": "装洗碗机前先冲一下碗。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "The knife is a bit blunt.",
+              "chinese": "刀有点钝了。",
+              "example": "The knife is a bit blunt.",
+              "example_zh": "刀有点钝了。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 准备晚餐",
@@ -12566,7 +12860,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Turn off the gas after cooking.",
+              "chinese": "做完饭要关煤气。",
+              "example": "Turn off the gas after cooking.",
+              "example_zh": "做完饭要关煤气。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Light the burner, please.",
+              "chinese": "请点一下炉子。",
+              "example": "Light the burner, please.",
+              "example_zh": "请点一下炉子。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 煮汤",
@@ -12672,7 +12981,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Pass the salt and pepper, please.",
+              "chinese": "请把盐和胡椒递给我。",
+              "example": "Pass the salt and pepper, please.",
+              "example_zh": "请把盐和胡椒递给我。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "The soup needs more seasoning.",
+              "chinese": "汤需要再多调点味。",
+              "example": "The soup needs more seasoning.",
+              "example_zh": "汤需要再多调点味。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 调味",
@@ -12857,7 +13181,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Boil the water first.",
+              "chinese": "先把水烧开。",
+              "example": "Boil the water first.",
+              "example_zh": "先把水烧开。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Stir the sauce gently.",
+              "chinese": "轻轻搅动酱汁。",
+              "example": "Stir the sauce gently.",
+              "example_zh": "轻轻搅动酱汁。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 打蛋",
@@ -12928,7 +13267,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Sort the laundry by color.",
+              "chinese": "按颜色分拣衣物。",
+              "example": "Sort the laundry by color.",
+              "example_zh": "按颜色分拣衣物。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Hang the shirt out to dry.",
+              "chinese": "把衬衫晾乾。",
+              "example": "Hang the shirt out to dry.",
+              "example_zh": "把衬衫晾乾。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 冷藏与加热",
@@ -13194,7 +13548,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Where is the checkout counter?",
+              "chinese": "收银台在哪？",
+              "example": "Where is the checkout counter?",
+              "example_zh": "收银台在哪？",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Do you have this in a larger size?",
+              "chinese": "这款有大一号的吗？",
+              "example": "Do you have this in a larger size?",
+              "example_zh": "这款有大一号的吗？",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 结账",
@@ -13302,7 +13671,34 @@
               "status": "原书OCR校正"
             }
           ],
-          "dialogues": []
+          "dialogues": [
+            {
+              "title": "Dialogue 买食材",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "We need some fish and eggs for dinner.",
+                  "zh": "晚饭需要些鱼和蛋。"
+                },
+                {
+                  "who": "B",
+                  "en": "And a carton of milk, too.",
+                  "zh": "还有一盒牛奶。"
+                },
+                {
+                  "who": "A",
+                  "en": "The beef looks fresh today.",
+                  "zh": "今天的牛肉看起来新鲜。"
+                },
+                {
+                  "who": "B",
+                  "en": "Get a smaller cut, just for two.",
+                  "zh": "买小块的，两人够吃。"
+                }
+              ]
+            }
+          ]
         },
         {
           "scene": "乳制品·蔬果 Dairy, Vegetables and Fruits",
@@ -13394,7 +13790,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "The milk is past its expiry date.",
+              "chinese": "牛奶过期了。",
+              "example": "The milk is past its expiry date.",
+              "example_zh": "牛奶过期了。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "These apples look fresh.",
+              "chinese": "这些苹果很新鲜。",
+              "example": "These apples look fresh.",
+              "example_zh": "这些苹果很新鲜。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 买蔬果",
@@ -13493,7 +13904,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Weigh the vegetables at the scale.",
+              "chinese": "在秤上称一下蔬菜。",
+              "example": "Weigh the vegetables at the scale.",
+              "example_zh": "在秤上称一下蔬菜。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Bananas are on sale today.",
+              "chinese": "今天香蕉特价。",
+              "example": "Bananas are on sale today.",
+              "example_zh": "今天香蕉特价。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 水果摊",
@@ -13636,7 +14062,34 @@
               "status": "原书OCR校正"
             }
           ],
-          "dialogues": []
+          "dialogues": [
+            {
+              "title": "Dialogue 挑选食品",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Which snack should we get?",
+                  "zh": "我们买哪种零食？"
+                },
+                {
+                  "who": "B",
+                  "en": "The cookies are buy-one-get-one.",
+                  "zh": "饼干买一送一。"
+                },
+                {
+                  "who": "A",
+                  "en": "Grab a bottle of olive oil as well.",
+                  "zh": "再拿一瓶橄榄油。"
+                },
+                {
+                  "who": "B",
+                  "en": "And some instant noodles for late nights.",
+                  "zh": "再拿点宵夜用的方便面。"
+                }
+              ]
+            }
+          ]
         },
         {
           "scene": "购物用语 Shopping Actions",
@@ -13686,7 +14139,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "I'd like to return this item.",
+              "chinese": "我想退这件商品。",
+              "example": "I'd like to return this item.",
+              "example_zh": "我想退这件商品。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Can I pay by card?",
+              "chinese": "能刷卡吗？",
+              "example": "Can I pay by card?",
+              "example_zh": "能刷卡吗？",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 试衣",
@@ -13808,7 +14276,34 @@
               "status": "原书OCR校正"
             }
           ],
-          "dialogues": []
+          "dialogues": [
+            {
+              "title": "Dialogue 银行办事",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "I'd like to open a savings account.",
+                  "zh": "我想开个储蓄账户。"
+                },
+                {
+                  "who": "B",
+                  "en": "Do you have your ID with you?",
+                  "zh": "你带身份证了吗？"
+                },
+                {
+                  "who": "A",
+                  "en": "Yes. I also want to withdraw some cash.",
+                  "zh": "带了。我还想取点现金。"
+                },
+                {
+                  "who": "B",
+                  "en": "Please fill out this form, then.",
+                  "zh": "那请填这张表。"
+                }
+              ]
+            }
+          ]
         },
         {
           "scene": "储蓄·股票·保险 Savings, Stock and Insurance",
@@ -14107,7 +14602,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Stick a stamp on the envelope.",
+              "chinese": "在信封上贴邮票。",
+              "example": "Stick a stamp on the envelope.",
+              "example_zh": "在信封上贴邮票。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "The parcel was damaged in transit.",
+              "chinese": "包裹在运输中损坏了。",
+              "example": "The parcel was damaged in transit.",
+              "example_zh": "包裹在运输中损坏了。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 寄信",
@@ -14192,7 +14702,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "I have a prescription to fill.",
+              "chinese": "我有个处方要配药。",
+              "example": "I have a prescription to fill.",
+              "example_zh": "我有个处方要配药。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Where is the waiting room?",
+              "chinese": "候诊室在哪？",
+              "example": "Where is the waiting room?",
+              "example_zh": "候诊室在哪？",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 买药",
@@ -14446,7 +14971,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Send this letter by registered mail.",
+              "chinese": "这信用挂号寄。",
+              "example": "Send this letter by registered mail.",
+              "example_zh": "这信用挂号寄。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "The package will arrive tomorrow.",
+              "chinese": "包裹明天到。",
+              "example": "The package will arrive tomorrow.",
+              "example_zh": "包裹明天到。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 航空信",
@@ -14660,7 +15200,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "Let's build a sandcastle.",
+              "chinese": "我们堆个沙堡吧。",
+              "example": "Let's build a sandcastle.",
+              "example_zh": "我们堆个沙堡吧。",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Put on some sunscreen first.",
+              "chinese": "先涂点防晒霜。",
+              "example": "Put on some sunscreen first.",
+              "example_zh": "先涂点防晒霜。",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 海滩",
@@ -15117,7 +15672,34 @@
               "status": "原书OCR校正"
             }
           ],
-          "dialogues": []
+          "dialogues": [
+            {
+              "title": "Dialogue 约会",
+              "source": "AI生成·待校对",
+              "lines": [
+                {
+                  "who": "A",
+                  "en": "Where should we go on our date?",
+                  "zh": "我们约会去哪？"
+                },
+                {
+                  "who": "B",
+                  "en": "How about the new café downtown?",
+                  "zh": "市中心新开的咖啡馆怎么样？"
+                },
+                {
+                  "who": "A",
+                  "en": "Sounds good. I'll pick you up at seven.",
+                  "zh": "听起来不错，七点我来接你。"
+                },
+                {
+                  "who": "B",
+                  "en": "Perfect. I can't wait.",
+                  "zh": "太好了，我等不及了。"
+                }
+              ]
+            }
+          ]
         },
         {
           "scene": "观影与比赛 Movie and Game",
@@ -15181,7 +15763,22 @@
               "notes": ""
             }
           ],
-          "phrases": [],
+          "phrases": [
+            {
+              "english": "What time does the movie start?",
+              "chinese": "电影几点开始？",
+              "example": "What time does the movie start?",
+              "example_zh": "电影几点开始？",
+              "status": "AI生成·待校对"
+            },
+            {
+              "english": "Our team won the game!",
+              "chinese": "我们队赢了比赛！",
+              "example": "Our team won the game!",
+              "example_zh": "我们队赢了比赛！",
+              "status": "AI生成·待校对"
+            }
+          ],
           "dialogues": [
             {
               "title": "Dialogue 决赛",
